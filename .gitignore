@@ -1,0 +1,4 @@
+.DS_Store
+
+# Utilities folder - contains scripts and logs for maintenance tasks
+utilities/
