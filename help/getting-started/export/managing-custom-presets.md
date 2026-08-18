@@ -22,7 +22,7 @@ ht-degree: 0%
 
 可以用 Substance 3D Designer 建立自訂預設。
 
-建立自訂預設與為 Sampler 建立自訂濾波器相同規則。 相關文件可在此](../../filters/custom-filters.md)取得[。
+建立自訂預設與為 Sampler 建立自訂濾波器相同規則。 相關文件可在此[&#128279;](../../filters/custom-filters.md)取得。
 
 ## 成立
 

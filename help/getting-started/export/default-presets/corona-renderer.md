@@ -22,7 +22,7 @@ ht-degree: 2%
 
 | 預設集 | 相容性 | 包裝輸出說明 |
 | --- | --- | --- |
-| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li><li data-preserve-html="true">PBR 鏡面/光澤</li></ul> | **漫反射****反射光澤度** （\*）**反射色** （\*\*）**FresnelIOR** （\*\*\*）**正常&#x200B;****位移****&#x200B;發射****不透明度** |
+| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li><li data-preserve-html="true">PBR 鏡面/光澤</li></ul> | **漫反射**&#x200B;**反射光澤度** （\*）**反射色** （\*\*）**FresnelIOR** （\*\*\*）**正常&#x200B;**&#x200B;**位移**&#x200B;**&#x200B;發射**&#x200B;**不透明度** |
 
 >[!NOTE]
 >

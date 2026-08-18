@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 貝塔
 
-本頁面保存 Sampler Beta 版本的變更紀錄。 請參閱常見問題](../faq.md)，[了解如何取得 Beta 版。
+本頁面保存 Sampler Beta 版本的變更紀錄。 請參閱常見問題[&#128279;](../faq.md)，了解如何取得 Beta 版。
 
 >[!NOTE]
 >

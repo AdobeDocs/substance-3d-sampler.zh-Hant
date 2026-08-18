@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 預設集 | 相容性 | 包裝輸出說明 |
 | --- | --- | --- |
-| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **反照&#x200B;****率光澤****正常（OpenGL）****透明度** |
+| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **反照&#x200B;**&#x200B;**率光澤**&#x200B;**正常（OpenGL）**&#x200B;**透明度** |

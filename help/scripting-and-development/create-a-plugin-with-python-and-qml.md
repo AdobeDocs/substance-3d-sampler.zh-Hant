@@ -30,7 +30,7 @@ ht-degree: 0%
 * **autosave.qml** 定義了 Sampler 中外掛的外觀。
 * **autosave.svg**&#x200B;是一個向量圖形，作為插件的圖示。
 
-當你把插件所需的檔案集中在一個資料夾後，可以透過編輯>偏好設定>插件與腳本，將插件加入 Sampler。 想了解更多關於管理插件的資訊，請點此[](manage-installed-plugins-and-scripts.md)。
+當你把插件所需的檔案集中在一個資料夾後，可以透過編輯>偏好設定>插件與腳本，將插件加入 Sampler。 想了解更多關於管理插件的資訊，請點此[&#128279;](manage-installed-plugins-and-scripts.md)。
 
 ## Python
 
@@ -186,7 +186,7 @@ autosave.qml 的一般結構如下：
 1. 實例化 Python API
 1. 定義使用者介面。
    1. 這包括 autosave.py **創建**&#x200B;的 Python API 的掛鉤。例如：
-      1. 第 47 行會在 QML 檔案中更新&#x200B;****「Autosave every （min）：」元素時更新時序變數值。
+      1. 第 47 行會在 QML 檔案中更新&#x200B;**&#x200B;**「Autosave every （min）：」元素時更新時序變數值。
       1. 第 64 行從 API 呼叫 **start\_auto\_save** 函式，並將 timing **和** autoSaveFolder **變數作為參數傳遞**。
 1. 建立一個方法來清理預設的檔案路徑。
 
