@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用曝光預覽工具，在 HDRI 影像中預覽曝光調整，再進行修改。
 helpx_creative_field: ""

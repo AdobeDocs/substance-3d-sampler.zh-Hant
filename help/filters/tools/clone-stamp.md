@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/clone-stamp.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Clone Stamp 工具來複製並繪製材質區域，方便無縫的材質編輯與修復。
 helpx_creative_field: ""

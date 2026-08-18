@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
 breadcrumb-title: ''
 description: 學習如何運用 Substance 3D Sampler 中的端到端物理尺寸工作流程，創造出與真實比例相符的物理精確材質。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/delight-ai-powered.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/delight-ai-powered.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 AI 驅動的 Delight 濾鏡，去除影像中的光線資訊並創造中性基材。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 HDR 合併工具，將多重曝光影像合併成一張高動態範圍影像。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的平鋪工具，從貼圖中創造無縫的平鋪圖案，以實現可重複的材質表面。
 helpx_creative_field: ""

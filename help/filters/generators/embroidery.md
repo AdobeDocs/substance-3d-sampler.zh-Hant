@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/embroidery.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的刺繡產生器，為材料製作刺繡布料圖案和縫線紋理。
 helpx_creative_field: ""

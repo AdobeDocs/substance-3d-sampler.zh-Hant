@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/flatten-layers.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中將圖層壓平，以提升效能並簡化圖層堆疊，同時了解其影響。
 helpx_creative_field: ""

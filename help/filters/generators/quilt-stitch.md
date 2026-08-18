@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Quilt Stitch產生器，為材料製作拼布布料圖案和縫紉紋理。
 helpx_creative_field: ""

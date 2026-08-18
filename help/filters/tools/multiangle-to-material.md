@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的「多角度到材質」工具，從多個角度拍攝的表面照片中建立材質。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的貼花產生器來建立貼花圖案和材質表面的疊加貼圖。
 helpx_creative_field: ""

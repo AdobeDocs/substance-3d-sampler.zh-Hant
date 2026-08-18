@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Scratch 濾鏡，為材質添加逼真的刮痕和表面損傷效果。
 helpx_creative_field: ""

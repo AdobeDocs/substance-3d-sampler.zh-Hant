@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用貼圖產生器，來製作程序化材質貼圖與圖案。
 helpx_creative_field: ""

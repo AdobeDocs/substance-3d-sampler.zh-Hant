@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Shape Light 工具，為 HDRI 環境新增自訂形狀的光源，營造創意光影效果。
 helpx_creative_field: ""

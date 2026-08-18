@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/warp.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Warp 工具，對材質和材質層施加方向性扭曲與失真效果。
 helpx_creative_field: ""

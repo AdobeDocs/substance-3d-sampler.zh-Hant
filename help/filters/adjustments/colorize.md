@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/colorize.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Colorize 濾鏡，為材質和材質套用色彩調和單色著色效果。
 helpx_creative_field: ""

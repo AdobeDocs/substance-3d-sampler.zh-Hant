@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/sharpen.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/sharpen.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用銳化濾鏡，提升材質與材質層的銳利度與細節。
 helpx_creative_field: ""

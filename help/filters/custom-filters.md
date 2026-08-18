@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-sampler/filters/custom-filters.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用自訂濾鏡，擴展 Substance Designer 濾鏡和自訂效果的功能。
 helpx_creative_field: ''
