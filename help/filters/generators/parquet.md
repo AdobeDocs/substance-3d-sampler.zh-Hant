@@ -35,7 +35,7 @@ ht-degree: 0%
 
 將你的材料改造成拼花地板。
 
-*木製材料經過&#x200B;**Parquet 濾網**轉換成拼花圖案。*
+*木製材料經過&#x200B;**Parquet 濾網**&#x200B;轉換成拼花圖案。*
 
 <table>
 <tr style="border: 0;">

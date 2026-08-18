@@ -52,7 +52,7 @@ ht-degree: 0%
 ## 田島刺繡插件
 
 有興趣試用田島刺繡插件嗎？ \
-點此](../../pipeline-and-integrations/tajima-exporter-plugin.md)了解更多[資訊。
+點此[&#128279;](../../pipeline-and-integrations/tajima-exporter-plugin.md)了解更多資訊。
 
 ## 參數
 

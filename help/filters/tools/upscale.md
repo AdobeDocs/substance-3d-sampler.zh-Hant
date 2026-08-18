@@ -79,7 +79,7 @@ ht-degree: 1%
 
 ![](../../assets/SAPR_Upscale_screen_001.png)
 
-在上方圖片中，低解析度影像由影像轉材質（AI 驅動）](image-to-material.md)處理[。
+在上方圖片中，低解析度影像由影像轉材質（AI 驅動）[&#128279;](image-to-material.md)處理。
 
 ![](../../assets/SAPR_Upscale_Screen_003.png)
 
