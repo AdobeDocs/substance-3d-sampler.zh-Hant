@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的色彩選擇器來選擇材質、濾鏡和材質編輯的顏色。
 helpx_creative_field: ""

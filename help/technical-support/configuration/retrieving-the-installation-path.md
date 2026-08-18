@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/retrieving-the-installation-path.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/configuration/retrieving-the-installation-path.html"
 breadcrumb-title: ''
 description: 學習如何在不同平台上取得 Substance 3D Sampler 的安裝路徑，以便腳本和設定。
 helpx_creative_field: ""

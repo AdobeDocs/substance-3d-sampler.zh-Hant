@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/nvidia-driver-settings.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/configuration/nvidia-driver-settings.html"
 breadcrumb-title: ''
 description: 學習如何設定 NVIDIA 驅動程式設定以優化 Substance 3D Sampler 並解決遲滯行為。
 helpx_creative_field: ""

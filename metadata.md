@@ -7,7 +7,7 @@ product_v2:
 usetq: true
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/substance-3d-sampler.en
+git-repo: https://github.com/AdobeDocs/substance-3d-sampler.zh-Hant
 index: true
 source-git-commit: 31f199b48b6b1ea0a06f54191ecdb410ca76fe9e
 workflow-type: tm+mt

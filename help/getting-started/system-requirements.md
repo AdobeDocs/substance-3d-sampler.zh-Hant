@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: 檢視 Substance 3D Sampler 的系統需求，確保您的硬體與軟體符合相容標準。
 helpx_creative_field: ''

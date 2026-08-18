@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/shortcuts.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/shortcuts.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Sampler 的鍵盤快捷鍵，加快工作流程並提升材質製作效率。
 helpx_creative_field: ""

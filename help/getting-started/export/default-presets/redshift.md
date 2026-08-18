@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
 breadcrumb-title: ''
 description: 學習如何使用 Redshift 預設從 Substance 3D Sampler 匯出材質，以相容 Redshift 渲染引擎。
 helpx_creative_field: ""

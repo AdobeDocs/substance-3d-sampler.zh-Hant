@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-1.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/version-4-1.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 4.1 版本的發行說明，了解 Paint Warp 濾鏡、刺繡濾鏡更新及 3D 捕捉改進。
 helpx_creative_field: ""

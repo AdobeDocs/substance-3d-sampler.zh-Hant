@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-2.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/version-4-2.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 4.2 版本的發佈說明，了解 AI 驅動的影像轉材質、AI 放大功能及解析度控制。
 helpx_creative_field: ""

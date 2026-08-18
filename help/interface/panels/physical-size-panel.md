@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的實體尺寸面板來設定材質和材質的真實尺寸。
 helpx_creative_field: ""

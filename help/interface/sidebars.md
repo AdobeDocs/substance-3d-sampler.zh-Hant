@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D Sampler 介面中的左右側邊欄，以導航工具、面板及應用程式功能。
 helpx_creative_field: ""

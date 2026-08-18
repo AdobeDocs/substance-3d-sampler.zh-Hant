@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 3.0 版本的發布說明，了解使用者介面重製、環境光源、濾鏡及 Creative Cloud 整合。
 helpx_creative_field: ""
@@ -87,7 +87,7 @@ Sampler 現在 [可以輕鬆地與 Substance 3D Painter 和 Stager 共享材質�
 ### 全新即時渲染引擎
 
 * 支援ASM材質，使得在擁有更多材料管道的應用程式間呈現一致的外觀。
-* 切換兩個 [即時引擎](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
+* 切換兩個 [即時引擎](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
 * 能夠控制網格上的預設材質
 
 ### 一般改良

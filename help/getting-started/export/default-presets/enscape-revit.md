@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
 breadcrumb-title: ''
 description: 學習如何使用 Enscape Revit 預設從 Substance 3D Sampler 匯出材質，用於建築視覺化工作流程。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-plugin-with-python-and-qml.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/scripting-and-development/create-a-plugin-with-python-and-qml.html"
 breadcrumb-title: ''
 description: 學習如何使用 Python 和 QML 為 Substance 3D Sampler 製作外掛，建立自訂使用者介面並擴充功能。
 helpx_creative_field: ""

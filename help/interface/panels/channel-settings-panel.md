@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 的通道設定面板來管理材質通道並控制通道可見性。
 helpx_creative_field: ""

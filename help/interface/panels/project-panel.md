@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/project-panel.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/project-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的專案面板來管理專案檔案、儲存作品並存取最近的專案。
 helpx_creative_field: ""

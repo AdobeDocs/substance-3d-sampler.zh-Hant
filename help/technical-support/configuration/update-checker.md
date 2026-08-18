@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/update-checker.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/configuration/update-checker.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 的更新檢查器，隨時掌握新版本和發行公告。
 helpx_creative_field: ""

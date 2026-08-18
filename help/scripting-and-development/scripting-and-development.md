@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/scripting-and-development.html"
 breadcrumb-title: ''
 description: 學習如何使用 Python API 為 Substance 3D Sampler 創建自訂外掛和腳本，以自動化工作流程並擴展功能。
 helpx_creative_field: ""

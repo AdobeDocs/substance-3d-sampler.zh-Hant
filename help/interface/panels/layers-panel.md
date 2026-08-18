@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的圖層面板來管理濾波圖層並建立複雜的材質堆疊。
 helpx_creative_field: ""
