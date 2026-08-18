@@ -13,4 +13,4 @@ ht-degree: 0%
 
 失真通道幫助麂皮及其他布料增添更真實的層次。 請觀看下方影片，了解如何在 Sampler 中最佳地使用 fuzz 通道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483519)
+>[!VIDEO](https://video.tv.adobe.com/v/3483532?captions=chi_hant)
