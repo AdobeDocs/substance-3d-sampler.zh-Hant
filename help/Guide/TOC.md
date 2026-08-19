@@ -4,9 +4,9 @@ breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
 hide: false
 hold: true
-source-git-commit: 6a659856172275313f25647700ef703e3daf8aba
+source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '627'
 ht-degree: 7%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 7%
   + HP Z Captis 支援{#hp-z-captis-support}
     + [HP Z Captis 支援概述](/help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
     + [你的第一次捕獲，一步步](/help/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)
+    + [掃描時的最佳實務](/help/pipeline-and-integrations/hp-z-captis-support/scanning-best-practices.md)
     + [使用 HP Z Captis 裝置的系統需求](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
     + [關於 Sampler 中 HP Z 支援的常見問題](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [已知問題與限制](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
