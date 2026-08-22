@@ -95,7 +95,7 @@ ht-degree: 0%
 
 以下是應用程式正常運行所需的最低 GPU 驅動版本清單。 隨著新版本發布，此列表可能會有所變動。
 
-要下載新驅動程式請參考： [GPU 驅動程式過](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)時。
+要下載新驅動程式請參考： [GPU 驅動程式過](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)時。
 
 | 作業系統 | NVIDIA | AMD | 英特爾 |
 | --- | --- | --- | --- |
