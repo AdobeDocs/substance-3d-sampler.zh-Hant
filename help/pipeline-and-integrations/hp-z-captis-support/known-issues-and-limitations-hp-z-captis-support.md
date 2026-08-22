@@ -29,5 +29,5 @@ ht-degree: 0%
 * 在擷取時關閉視窗時，已填寫的元資料會遺失。
 * 在 Captis 透過 USB 傳輸資料時，點擊任一「瀏覽內容」或「關閉」按鈕時，傳輸會停止。
 
-* 如果你有 TDR 問題，請參考 [Sustance Painter 的文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash) ，應該能幫助你解決。
+* 如果你有 TDR 問題，請參考 [Sustance Painter 的文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash) ，應該能幫助你解決。
 * 如果「預覽」步驟全黑，無法在裝置內觀看即時畫面，請確認你已將鏡頭蓋從裝置錐體內取下。

@@ -137,4 +137,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 你可以在 Sampler 裡直接暴露濾波器參數來控制濾波器。 點此查看操作指南[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> 你可以在 Sampler 裡直接暴露濾波器參數來控制濾波器。 點此查看操作指南[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)

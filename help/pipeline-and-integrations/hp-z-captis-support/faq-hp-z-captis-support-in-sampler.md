@@ -116,7 +116,7 @@ HP Z Captis 由 Adobe Substance 3D Sampler 原生操作。 HP Z Captis 可擷取
 +++如果我使用特定的檔案格式、標準與規範，或是第三方應用程式，我該如何在目前的 3D 流程中使用 Captis？
 HP Z Captis 由 Adobe Substance 3D Sampler 原生操作。 一旦你在 Substance 3D Sampler 中擷取並數位化你的材料樣本，就能無縫匯出你的數位材料：
 
-在 Substance 3D 生態系統的任何應用中（包括支援多種匯出格式的 Substance 3D Designer 或 Substance 3D Painter：https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats）。
+在 Substance 3D 生態系統的任何應用中（包括支援多種匯出格式的 Substance 3D Designer 或 Substance 3D Painter：https://experienceleague.adobe.com/zh-hant/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats）。
 
 在任何整合 Substance 檔案格式的應用程式中，如 3DS Max、Maya、Blender、C4D、Rhino、Browzwear、CLO......（完整列表請見此處：<https://www.adobe.com/tw/products/substance3d/plugins.html>）。 如果你使用的應用程式未列入該格式，也可以匯出 PBR 材質圖片，手動插入任何原生不支援 Substance 檔案格式的應用程式中。
 
