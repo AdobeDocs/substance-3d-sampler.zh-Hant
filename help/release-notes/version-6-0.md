@@ -4,9 +4,9 @@ description: 請參閱 Substance 3D Sampler 6.0 版本的發布說明，了解�
 title: 版本 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: fe26cb37891204d5b93265643c23d8e717b3d524
+source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1627'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,49 @@ Sampler 現在讓你只需一鍵啟動 HP Z Captis 的擷取，感興趣區域�
 
 ## V6.0 發行說明
 
+### **6.0.3**
+
+*（發布日期：2026年8月24日）*
+
+**修正：**
+
+[Rendering] 還原 NVIDIA 驅動程式故障的臨時解決方法
+
+### **6.0.2**
+
+*（發布日期：2026年6月25日）*
+
+**補充：**
+
+* &lbrack;Assets&rbrack;請檢查 sbsar 版本並提醒使用者引擎太舊無法讀取
+* &lbrack;Captis&rbrack; 在偏好設定中新增儲存 captis 光度測量的選項
+
+**修正：**
+
+* &lbrack;2D View&rbrack;若關閉實體尺寸，請勿「以物理比例顯示」
+* &lbrack;Analytics&rbrack;缺少分析事件
+* &lbrack;Analytics&rbrack;防止 crashpad 在 vk devicelost 上回報當機
+* &lbrack;Application&rbrack;退出時不要摧毀 vkdevices，以避免 NVIDIA 驅動程式當機
+* &lbrack;Application&rbrack; 修正連結集合監視者退出 + 通道管理器
+* &lbrack;Application&rbrack; 防止出口當機
+* &lbrack;Content&rbrack;「金屬表面處理」濾網不會影響金屬性
+* &lbrack;Content&rbrack; 在動態過濾器中缺少實體大小時，會新增實體大小
+* &lbrack;Filters&rbrack; 從隱藏資產列表中移除內容感知填充
+* &lbrack;Layers&rbrack;點擊「重置所有設定」不會重置「apply to」下拉選單
+* &lbrack;Layers&rbrack; 修正位置小工具的最小與最大調整
+* &lbrack;Layers&rbrack; 正確更新過濾器
+* &lbrack;Physical Size&rbrack;確保物理尺度在各處都能正常運作 + 讓 Physicalsize 在動態過濾器下變得合理
+* &lbrack;Project&rbrack;建立新資產時，確保資產解析度為預設（2k x 2k）
+* &lbrack;Project&rbrack;重新開啟現有專案，過去用來開啟舊版本
+* &lbrack;Project&rbrack;Sampler 不再提供還原損壞專案的備份
+* &lbrack;Rendering&rbrack; 最高解析度為 2k 的渲染材質縮圖
+* &lbrack;UI&rbrack;防禦性程式碼，防止使用者速度快於 UI 時當機
+
+### **6.0.1**
+
 *（發行日期：2026年4月16日）*
 
-## 補充：
+**補充：**
 
 * [3D 視圖] 提供預設的 USD 格式網格
 * [應用程式] 偵測材料中目前材料模型中無法取得的使用情況
@@ -110,7 +150,7 @@ Sampler 現在讓你只需一鍵啟動 HP Z Captis 的擷取，感興趣區域�
 * [頻道列表版中的 UI] 搜尋實作
 * [UI] 儲存快照到檔案時會顯示通知
 
-## 修正：
+**修正：**
 
 * [2D 檢視] 依據規格中的結果使用指數排序 2D 檢視
 * [應用程式] ：在一開始時修正當機
@@ -194,7 +234,7 @@ Sampler 現在讓你只需一鍵啟動 HP Z Captis 的擷取，感興趣區域�
 * [] UI 更新頻道設定，調整圖片使用方式
 * [材質模型轉換彈窗中的 UI] 更新措辭
 
-## 已移除：
+## 已移除
 
 * [UI] 移除 3D 擷取選單項目
 * [UI] 移除生成式 AI 面板

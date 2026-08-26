@@ -6,9 +6,9 @@ helpx_description: Sampler > Release Notes > All Changes
 title: 所有變動
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: dc832dc546735437051226f4e1e731b55147b3ea
+source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
 workflow-type: tm+mt
-source-wordcount: '24926'
+source-wordcount: '24940'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,14 @@ ht-degree: 0%
 本頁彙整了 Substance 3D Sampler 所有的變更，從新功能到錯誤修正。
 
 ## 版本 6
+
+### **6.0.3**
+
+*（發布日期：2026年8月24日）*
+
+**修正：**
+
+[Rendering] 還原 NVIDIA 驅動程式故障的臨時解決方法
 
 ### **6.0.2**
 
