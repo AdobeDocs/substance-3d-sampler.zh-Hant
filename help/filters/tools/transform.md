@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/transform.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/transform.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Transform 工具來縮放、旋轉、平移並操作材質與材質圖層。
 helpx_creative_field: ""
@@ -71,7 +71,7 @@ ht-degree: 0%
 * **轉化**：\
   用滑桿調整把手的變形，而不是在 **2D 視角**。
   * **X等級**：0-2
-  * **&#x200B;**&#x200B;垂直傾斜：-7.44 轉 2
+  * ****&#x200B;垂直傾斜：-7.44 轉 2
   * **水平斜**&#x200B;角：0-1
   * **尺度Y**：0 - 13.15
 * **關閉每個通道**&#x200B;的變形：切換\
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 點擊 **Transform 工具** ，將新的 Transform 濾鏡圖層加入圖層堆疊的頂端。
 
-建立或選擇變換濾鏡圖層會 **自動開啟 2D 視圖**。 選擇變形圖層後，2D 視圖頂端會出現一個&#x200B;**工具列**。**&#x200B;**
+建立或選擇變換濾鏡圖層會 **自動開啟 2D 視圖**。 選擇變形圖層後，2D 視圖頂端會出現一個&#x200B;**工具列**。****
 
 ## 功能
 

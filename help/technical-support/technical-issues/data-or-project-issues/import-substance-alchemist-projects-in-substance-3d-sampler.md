@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: 學習如何將 Substance Alchemist 專案匯入 Substance 3D Sampler，以遷移你現有的材質專案與工作流程。
 helpx_creative_field: ""

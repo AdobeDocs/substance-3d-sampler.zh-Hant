@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用 Substance Send-to，直接透過連接器將資產傳送到其他應用程式。
 helpx_creative_field: ""
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 * <b>Maya 外掛 v3.0.0+</b>
   * 支援 Maya 2025、2024、2023 及 2022
-  * *自 Maya 2025 起即可使用，先前版本的外掛需從 [網站下載](https://www.adobe.com/tw/products/substance3d/plugins/substance-in-maya.html "瑪雅中的物質網頁")*
+  * *自 Maya 2025 起即可使用，先前版本的外掛需從 [網站下載](https://www.adobe.com/products/substance3d/plugins/substance-in-maya.html "瑪雅中的物質網頁")*
 
 * <b>3ds Max 插件 v3.0.0+</b>
   * 支援 3ds Max 2025、2024、2023 和 2022
-  * *自 3ds Max 2025 起即可使用，先前版本的外掛需從 [官網下載。](https://www.adobe.com/tw/products/substance3d/plugins/substance-in-3ds-max.html "3ds Max 中的 Substance 網頁")*
+  * *自 3ds Max 2025 起即可使用，先前版本的外掛需從 [官網下載。](https://www.adobe.com/products/substance3d/plugins/substance-in-3ds-max.html "3ds Max 中的 Substance 網頁")*
 
 * <b>Unity 插件 v3.11+</b>
   * Unity 版本 2022、2021 或 2020
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 * <b>Blender 外掛 v2.1+</b>
   * Blender 3.0 及以上版本
-  * *該外掛可於 [網站上下載下載](https://www.adobe.com/tw/products/substance3d/plugins/substance-in-blender.html "Blender 中的 Substance 網頁")*
+  * *該外掛可於 [網站上下載下載](https://www.adobe.com/products/substance3d/plugins/substance-in-blender.html "Blender 中的 Substance 網頁")*

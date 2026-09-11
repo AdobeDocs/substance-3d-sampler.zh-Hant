@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/3d-capture/equipment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/equipment.html"
 breadcrumb-title: ''
 description: 了解推薦的 Substance 3D 取樣器 3D 擷取設備，以達成高品質的材質與物件數位化。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 在這份使用指南中，我們將介紹用於 Substance 3D Sampler 攝影測量工作流程的進階攝影方法。
 
-你比較喜歡把這段內容當作教學影片觀看嗎？ 你可以在這裡[&#128279;](https://youtu.be/f8iCtZ3Gmzs?si=Q353ZDCScO1YnHJT "3D 擷取基地設備教學")找到它。
+你比較喜歡把這段內容當作教學影片觀看嗎？ 你可以在這裡](https://youtu.be/f8iCtZ3Gmzs?si=Q353ZDCScO1YnHJT "3D 擷取基地設備教學")找到它[。
 
 重點將放在室內、受控環境中拍攝較小目標，並使用較先進的設備。 不會著重於特定品牌和產品，目標是保持說明足夠通用，以便適用於不同設備。
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 
 一切就緒後，重點很簡單：多拍照片，並 <b>以完整的360度環圈拍攝。 每輪16發是個不錯的數字，至少有5個不同的循環</b>。 一個 <b>從側面</b>看，兩個 <b>從不同高度</b>分別對應底部和頂部。
 
-現在請進一步了解你需要用來進行 3D 捕捉[&#128279;](camera-settings-exposure-substance-3d-sampler.md)的 CAmera 設定。
+現在請進一步了解你需要用來進行 3D 捕捉](camera-settings-exposure-substance-3d-sampler.md)的 C[Amera 設定。

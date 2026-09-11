@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/beta-version.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/beta-version.html"
 breadcrumb-title: ''
 description: 在正式發行前，先取得 Substance 3D Sampler 的測試版，嘗試新功能並提供回饋。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 貝塔
 
-本頁面保存 Sampler Beta 版本的變更紀錄。 請參閱常見問題[&#128279;](../faq.md)，了解如何取得 Beta 版。
+本頁面保存 Sampler Beta 版本的變更紀錄。 請參閱常見問題](../faq.md)，[了解如何取得 Beta 版。
 
 >[!NOTE]
 >

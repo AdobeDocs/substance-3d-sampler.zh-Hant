@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/pbr-validate.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/pbr-validate.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的PBR驗證工具，驗證並確保材料符合物理基礎渲染標準。
 helpx_creative_field: ""
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 使用指南
 
-**PBR 驗證**&#x200B;**濾波**&#x200B;器有助於避免材料中反照率與金屬值的問題。要了解 PBR 驗證過濾器&#x200B;**的運作**&#x200B;方式，首先可以簡單說明什麼是 PBR。
+**PBR 驗證****濾波**&#x200B;器有助於避免材料中反照率與金屬值的問題。要了解 PBR 驗證過濾器&#x200B;**的運作**&#x200B;方式，首先可以簡單說明什麼是 PBR。
 
 ## 什麼是PBR？
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Nadir Patch 工具，將 HDRI 影像的 Nadir 區域修補，打造無縫的環境貼圖。
 helpx_creative_field: ""

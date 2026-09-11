@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
 breadcrumb-title: ''
 description: 學習如何使用 Spark AR Studio 預設，從 Substance 3D Sampler 匯出材質，用於擴增實境工作流程。
 helpx_creative_field: ""

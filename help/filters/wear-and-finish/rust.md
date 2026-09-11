@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的鏽蝕濾鏡，為金屬材料和表面添加逼真的鏽蝕與腐蝕效果。
 helpx_creative_field: ""

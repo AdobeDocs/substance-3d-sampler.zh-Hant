@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
 breadcrumb-title: ''
 description: 了解如何在啟用不受信任字型阻擋的 Windows Enterprise 系統中修復 Substance 3D Sampler 中的字型顯示問題。
 helpx_creative_field: ""

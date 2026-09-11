@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的圖層面板來管理濾波圖層並建立複雜的材質堆疊。
 helpx_creative_field: ""
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 * 材質圖層總是使用文件解析。
 * 堆疊底部的材質圖層沒有可混合的素材，因此 **混合模式選擇器** 無法使用。
-* 不在堆疊底部的材質圖層可以和它下面的圖層混合，所以你可以用 **混合模式選擇器** 來更改混合模式。 此外，圖層圖示旁邊會出現一個&#x200B;**混合圖示**。**&#x200B;**&#x200B;選擇 **混合圖示** ，根據所選混合模式調整該圖層的混合設定。
+* 不在堆疊底部的材質圖層可以和它下面的圖層混合，所以你可以用 **混合模式選擇器** 來更改混合模式。 此外，圖層圖示旁邊會出現一個&#x200B;**混合圖示**。****&#x200B;選擇 **混合圖示** ，根據所選混合模式調整該圖層的混合設定。
 
 ### 濾波層
 

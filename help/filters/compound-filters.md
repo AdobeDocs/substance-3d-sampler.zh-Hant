@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-sampler/filters/compound-filters.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中建立並使用複合濾鏡，將多個濾鏡合併成單一可重複使用的圖層。
 helpx_creative_field: ''
@@ -31,7 +31,7 @@ ht-degree: 0%
 複合過濾器是一個 **.ssafilter** 檔案，是一個 .7zip 壓縮資料夾，包含以下內容：
 
 * 一個使用 JSON 格式的描述檔案： **myfilter\_name.json**
-* 一個&#x200B;**&#x200B;**&#x200B;資源資料夾，內容包括：
+* 一個&#x200B;****&#x200B;資源資料夾，內容包括：
   * 濾鏡縮圖：icon.png
   * 外部檔案相依關係
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 1. 把你的檔案加入 **資源** 資料夾
 1. 寫出節點間的連結清單
 1. 確認你的 JSON 是否有效（沒有打字、漏逗號或缺少括號）
-1. 如果你想要縮圖，可以在資源&#x200B;**資料夾裡icon.png**&#x200B;**新增一張圖片**
+1. 如果你想要縮圖，可以在資源&#x200B;**資料夾裡icon.png****新增一張圖片**
 1. 選擇 **.json** 檔案和 **資源** 資料夾，然後用 7zip 壓縮
 
 ## 文件

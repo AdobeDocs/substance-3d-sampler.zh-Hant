@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/color-temperature-adjustment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/color-temperature-adjustment.html"
 breadcrumb-title: ''
 description: 請使用Substance 3D Sampler中的色溫調整工具，調整HDRI環境影像中的色溫。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/exposure.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的曝光工具，調整 HDRI 環境影像的曝光等級，以達到適當的光線平衡。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/paint.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/paint.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Paint 濾鏡，為你的材質添加顏料層、塗層和塗裝表面效果。
 helpx_creative_field: ""

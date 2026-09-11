@@ -13,4 +13,4 @@ ht-degree: 0%
 
 顧名思義，塗層通道可以讓你在材料上加塗層。 塗層本身可能有其粗糙度值，這會影響材料的基底粗糙度，有助於創造如清漆或拋光表面的效果。 請觀看下方影片，了解如何使用Sampler的塗層通道，從零開始製作上漆拼花地板材料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483554?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3483521)

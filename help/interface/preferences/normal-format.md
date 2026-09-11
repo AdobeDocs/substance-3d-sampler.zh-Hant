@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/preferences/normal-format.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/normal-format.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中設定法線貼圖格式偏好設定，以便在 DirectX 和 OpenGL 格式間切換。
 helpx_creative_field: ""

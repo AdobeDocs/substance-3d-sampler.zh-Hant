@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/delight-ai-powered.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/delight-ai-powered.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 AI 驅動的 Delight 濾鏡，去除影像中的光線資訊並創造中性基材。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 Delighter 允許你從基色通道移除光照資訊。 這在將影像轉換成材質時非常重要，因為一般材質不應該包含光照資訊。 材料是一組解釋光應該如何與表面反應的資訊集合，所以如果通道裡已經內建了光資訊，而該通道本不該有光資訊，就可能破壞材料真實呈現表面的能力。
 
-*一個圖片在 Delight（AI 驅動）濾鏡&#x200B;**處理前後**&#x200B;的範例。注意陰影和高光已被移除，只剩底色。*
+*一個圖片在 Delight（AI 驅動）濾鏡&#x200B;**處理前後**的範例。注意陰影和高光已被移除，只剩底色。*
 
 ![](../../assets/120-0-comparison.png)
 

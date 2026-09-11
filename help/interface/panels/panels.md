@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 介面中了解面板，以存取材質製作工作流程的工具、設定與功能。
 helpx_creative_field: ""

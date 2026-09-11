@@ -28,7 +28,7 @@ ht-degree: 0%
 
 <b>光圈</b> 是最複雜的相機設定，所以在這份使用指南中，我們將深入說明。
 
-你比較喜歡把這份指南當作教學影片看嗎？ 你可以在這裡[&#128279;](https://youtu.be/kFZ71ZWuap0?si=MDuvyO9w96rFpsQ9 "3D 拍攝的光圈與對焦教學影片教學")找到它。
+你比較喜歡把這份指南當作教學影片看嗎？ 你可以在這裡](https://youtu.be/kFZ71ZWuap0?si=MDuvyO9w96rFpsQ9 "3D 拍攝的光圈與對焦教學影片教學")找到它[。
 
 ![](../assets/focus-manually-3d-capture.png)
 

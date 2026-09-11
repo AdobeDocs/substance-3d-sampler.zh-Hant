@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-sampler/filters.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用濾鏡，修改、強化並創造具有程序化及影像效果的材質。
 helpx_creative_field: ''

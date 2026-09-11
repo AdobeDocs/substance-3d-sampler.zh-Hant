@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的亮度/對比濾鏡來調整貼圖和材質層的亮度與對比度。
 helpx_creative_field: ""

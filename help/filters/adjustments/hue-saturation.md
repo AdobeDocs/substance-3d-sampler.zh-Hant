@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/hue-saturation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/hue-saturation.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Hue/飽和度濾鏡，調整材質和材質的色調、飽和度和明度值。
 helpx_creative_field: ""

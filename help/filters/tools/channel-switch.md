@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的通道切換工具，重新排列並交換材質貼圖中的色彩通道以建立材質。
 helpx_creative_field: ""
@@ -46,7 +46,7 @@ ht-degree: 1%
 * **輸出通道：** 選擇輸入通道的目的地通道。
 * **不透明度：** 0-1\
   調整通道資訊相對於現有通道資訊的不透明度。 換句話說，這控制了用於套用新通道填充的遮罩透明度。
-* **混合模式**&#x200B;**:** 選擇底色通道的混合模式。 改變混合模式可以大幅改變通道的外觀。
+* **混合模式****:** 選擇底色通道的混合模式。 改變混合模式可以大幅改變通道的外觀。
 
 **進階**
 

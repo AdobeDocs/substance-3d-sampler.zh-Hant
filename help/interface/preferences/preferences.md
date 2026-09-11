@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中設定偏好設定，以自訂應用程式設定並優化您的工作流程。
 helpx_creative_field: ""

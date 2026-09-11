@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started.html"
 breadcrumb-title: ''
 description: 開始使用 Substance 3D Sampler，學習素材製作、專案管理與工作流程優化的基礎。
 helpx_creative_field: ""

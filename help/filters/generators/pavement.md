@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/pavement.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Pavement 產生器，為材質製作逼真的路面與路面貼圖。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 將你的材料轉換成路面圖案。 Pavement 過濾器包含多種選項，能快速且輕鬆地更換圖案風格。
 
-*一個鋪面過濾器&#x200B;**的**&#x200B;例子。*
+*一個鋪面過濾器&#x200B;**的**例子。*
 
 </td>
 </tr>
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 **關節**
 
-* **關節**&#x200B;**高度**：0-1\
+* **關節****高度**：0-1\
   調整磚塊間材料的高度
 * **關節寬度**：0-1\
   調整磚塊間材料與磚塊邊緣重疊的距離

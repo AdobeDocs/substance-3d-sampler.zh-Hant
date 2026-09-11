@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/technical-issues/interface-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues.html"
 breadcrumb-title: ''
 description: 取得 Substance 3D Sampler 介面問題的故障排除指南，以解決顯示問題與介面渲染錯誤。
 helpx_creative_field: ""

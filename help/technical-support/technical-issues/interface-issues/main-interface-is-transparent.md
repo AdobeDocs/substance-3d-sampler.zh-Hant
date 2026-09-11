@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
 breadcrumb-title: ''
 description: 學習如何透過調整 GPU 驅動程式設定和抗鋸齒選項來解決 Substance 3D Sampler 中的透明介面問題。
 helpx_creative_field: ""

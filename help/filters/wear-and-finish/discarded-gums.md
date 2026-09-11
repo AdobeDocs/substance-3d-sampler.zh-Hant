@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Discarded Gums 濾鏡，為你的材料添加膠渣殘留和黏性表面效果。
 helpx_creative_field: ""

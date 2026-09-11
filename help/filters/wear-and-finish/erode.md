@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/erode.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/erode.html"
 breadcrumb-title: ''
 description: 在Substance 3D Sampler中使用侵蝕濾鏡，加入模擬自然材料劣化的侵蝕與風化效果。
 helpx_creative_field: ""

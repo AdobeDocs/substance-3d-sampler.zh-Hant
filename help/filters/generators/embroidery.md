@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/embroidery.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的刺繡產生器，為材料製作刺繡布料圖案和縫線紋理。
 helpx_creative_field: ""
@@ -52,7 +52,7 @@ ht-degree: 0%
 ## 田島刺繡插件
 
 有興趣試用田島刺繡插件嗎？ \
-點此[&#128279;](../../pipeline-and-integrations/tajima-exporter-plugin.md)了解更多資訊。
+點此](../../pipeline-and-integrations/tajima-exporter-plugin.md)了解更多[資訊。
 
 ## 參數
 

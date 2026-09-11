@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/exporting-the-log-file.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/exporting-the-log-file.html"
 breadcrumb-title: ''
 description: 學習如何從 Substance 3D Sampler 匯出日誌檔案，方便故障排除和技術支援。
 helpx_creative_field: ""
@@ -34,12 +34,12 @@ ht-degree: 0%
 
 Adobe 版本：
 
-* **Windows**：C：\Users\**&#x200B; username**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
+* **Windows**：C：\Users\** username**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**：Macintosh > 使用者> **使用者名稱** >函式庫>應用程式支援>Adobe >Adobe Substance 3D Sampler > log.txt
 
 Substance3D 版本：
 
-* **Windows**：C：\Users\**&#x200B; username**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
+* **Windows**：C：\Users\** username**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**：Macintosh > 使用者> **使用者名稱** >函式庫>應用程式支援> Allegorithmic > Adobe Substance 3D 取樣器> log.txt
 * **Linux**：/home/**username**/.local/share/Allegorithmic/Adobe Substance 3D Sampler/log.txt
 

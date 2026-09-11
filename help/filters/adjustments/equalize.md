@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Equalize 濾鏡，自動重新分配亮度值並增強影像對比度。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Shape Light 工具，為 HDRI 環境新增自訂形狀的光源，營造創意光影效果。
 helpx_creative_field: ""
@@ -55,7 +55,7 @@ ht-degree: 0%
     * **形狀影像輸入**：image/brush\
       匯入一張圖片作為顏色。 你可以用筆刷工具直接在 **2D 視圖**&#x200B;中繪製，但用這個濾鏡可能會產生不可預測的結果。
 * **熱點暴露（EV）：** 0-10\
-  調整熱點的曝光。 熱點有時難以或無法被看見——在新的 **Shape Light 濾鏡**&#x200B;中，將 Shape Temperature **設**&#x200B;為 1000，**並將熱點曝光**&#x200B;**（EV）**&#x200B;設為 10，這樣就能看到形狀中心的熱點。
+  調整熱點的曝光。 熱點有時難以或無法被看見——在新的 **Shape Light 濾鏡**&#x200B;中，將 Shape Temperature **設**&#x200B;為 1000，**並將熱點曝光****（EV）**&#x200B;設為 10，這樣就能看到形狀中心的熱點。
 * **形狀**：\
   設定燈的形狀。
 

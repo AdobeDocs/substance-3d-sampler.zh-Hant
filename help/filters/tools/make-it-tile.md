@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Make it Tile 工具，自動從非平鋪材質中創造無縫的平鋪圖案。
 helpx_creative_field: ""

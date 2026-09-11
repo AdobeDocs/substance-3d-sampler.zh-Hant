@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的貼花產生器來建立貼花圖案和材質表面的疊加貼圖。
 helpx_creative_field: ""
@@ -71,7 +71,7 @@ ht-degree: 1%
 
 * **貼紙變換**：\
   調整貼花的矩陣轉換值。 一般來說，直接用 2D 視角&#x200B;**的把**&#x200B;手來調整貼紙的轉換會比較簡單。
-* **貼紙**&#x200B;**偏移**：-1 比 1\
+* **貼紙****偏移**：-1 比 1\
   調整貼紙的偏移量。
 
 ## 使用指南

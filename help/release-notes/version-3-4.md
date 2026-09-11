@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/version-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-3-4.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 3.4 版本的發布說明，了解旨在提升 3D 工作流程速度與品質的新功能。
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ ht-degree: 0%
 你現在可以建立外掛和腳本，這讓你能自訂介面，讓你輕鬆將 Sampler 整合進你的工作流程，並以任何你想要的方式設定整體工作流程。\
 例如，這可以讓你建立腳本，讓你自動化重複性工作，例如一鍵匯出多個材料。
 
-在這裡了解如何建立你的第一個外掛或腳本[&#128279;](../scripting-and-development/scripting-and-development.md)。
+在這裡了解如何建立你的第一個外掛或腳本[](../scripting-and-development/scripting-and-development.md)。
 
 ## CLO 物理性質
 

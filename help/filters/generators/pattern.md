@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/pattern.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的圖案產生器來建立材質貼圖的程序化圖案與重複設計。
 helpx_creative_field: ""

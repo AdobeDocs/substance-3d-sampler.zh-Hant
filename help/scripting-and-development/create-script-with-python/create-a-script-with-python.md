@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
 breadcrumb-title: ''
 description: 學習如何為 Substance 3D Sampler 撰寫 Python 腳本，以自動化工作流程並擴展應用程式功能。
 helpx_creative_field: ""
@@ -77,4 +77,4 @@ for layer in my_asset_layers:
 
 當你把上面的腳本存成 PY 檔後，可以用編輯>偏好設定 > 插件和腳本匯入。 匯入後，**選單列中會出現「腳本」** 選項，與 **「檔案** 」和 **「編輯**」並列。 接著你可以執行腳本。
 
-你可以在這裡[&#128279;](../manage-installed-plugins-and-scripts.md)了解更多關於管理你的劇本的資訊。
+你可以在這裡](../manage-installed-plugins-and-scripts.md)了解更多關於管理你的劇本[的資訊。

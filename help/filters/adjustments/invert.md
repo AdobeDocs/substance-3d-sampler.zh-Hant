@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Invert 濾鏡來反轉色彩值，並在材質和材質中創造負面影像效果。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/crop-tool.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/crop-tool.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的裁切工具，精確控制尺寸，裁切並調整材質圖層大小。
 helpx_creative_field: ""

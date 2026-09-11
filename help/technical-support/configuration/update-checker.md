@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/configuration/update-checker.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/update-checker.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 的更新檢查器，隨時掌握新版本和發行公告。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 更新檢查器
 
-更新視窗會顯示是否有新版本的物質鍊金術師可用，並顯示[&#128279;](../../release-notes/release-notes.md)最新的發行說明。
+更新視窗會顯示是否有新版本的物質鍊金術師可用，並顯示](../../release-notes/release-notes.md)最新的[發行說明。
 
 若有新版本可下載，啟動 Substance Alchemist 時會自動跳出此視窗。
 

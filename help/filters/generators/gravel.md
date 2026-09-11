@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的礫石產生器，為材料製作逼真的碎石與石材骨料紋理。
 helpx_creative_field: ""
@@ -102,5 +102,5 @@ ht-degree: 0%
 
 * **表面積（公分）：** 0-1000\
   修改材質所代表的表面尺寸。 增加表面積意味著礫石的物理尺寸變大，並會相應地進行調整。
-* **高度深度**&#x200B;**（公分）：** 0-100\
+* **高度深度****（公分）：** 0-100\
   修改材質高度圖所代表的物理深度。 高度深度增加意味著石頭的物理尺寸比原本更高，因此石頭的正常強度也會增加。

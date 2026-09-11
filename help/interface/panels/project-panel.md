@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/project-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/project-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的專案面板來管理專案檔案、儲存作品並存取最近的專案。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ Sampler 裡的專案就像可以儲存多個資產的套件。 **專案面板**&
 
 專案面板頂端的控制項允許你在目前專案中新增或管理材料：
 
-* 請使用新增&#x200B;**&#x200B;**&#x200B;按鈕開啟&#x200B;**材料預設選單**，並將新材質加入你的專案。
+* 請使用新增&#x200B;****&#x200B;按鈕開啟&#x200B;**材料預設選單**，並將新材質加入你的專案。
 * 使用 **複製** 按鈕來複製目前選取的素材。
 * 使用 **「重新命名** 」按鈕來重新命名目前選取的素材。
 * 使用 **刪除** 按鈕刪除目前選取的素材。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
 breadcrumb-title: ''
 description: 學習如何使用 Enscape Revit 預設從 Substance 3D Sampler 匯出材質，用於建築視覺化工作流程。
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 預設集 | 相容性 | 包裝輸出說明 |
 | --- | --- | --- |
-| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **反照&#x200B;**&#x200B;**率光澤**&#x200B;**正常（OpenGL）**&#x200B;**透明度** |
+| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **反照&#x200B;****率光澤****正常（OpenGL）****透明度** |

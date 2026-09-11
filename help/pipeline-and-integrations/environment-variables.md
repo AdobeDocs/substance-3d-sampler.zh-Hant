@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/pipeline-and-integrations/environment-variables.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/environment-variables.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用環境變數來覆蓋預設應用程式行為並設定設定。
 helpx_creative_field: ""

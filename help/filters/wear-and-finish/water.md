@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/water.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/water.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用水過濾器，為材質和材質添加水質效果、濕度和濕度。
 helpx_creative_field: ""

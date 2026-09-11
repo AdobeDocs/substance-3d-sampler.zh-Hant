@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/panel.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的面板產生器，為材質製作面板圖案和分割的表面紋理。
 helpx_creative_field: ""
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 **進階**
 
-* **正常**&#x200B;**強度**：0-3\
+* **正常****強度**：0-3\
   調整材料的整體正常強度
 * **縫線高度範圍**：0-1\
   調整訂製接縫的高度與面板相距

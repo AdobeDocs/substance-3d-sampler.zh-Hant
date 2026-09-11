@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的「多角度到材質」工具，從多個角度拍攝的表面照片中建立材質。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 你可以在這篇文章[&#128279;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)中找到更多關於如何製作材料掃描器的資訊。
+> 你可以在這篇文章](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)中找到更多關於如何製作材料掃描[器的資訊。
 
 ## 範例
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 在多角度到材料層中：
 
-* 設定第一個輸入的光線角度。 如果你的掃描&#x200B;**1是180°，第一個輸入光角=0.5;如果**&#x200B;**&#x200B;**&#x200B;掃描1是0°，第一個輸入光角度=0
+* 設定第一個輸入的光線角度。 如果你的掃描&#x200B;**1是180°，第一個輸入光角=0.5;如果******&#x200B;掃描1是0°，第一個輸入光角度=0
 * 設定下一個輸入光角度：它定義影像旋轉的方向。 若 scan1 為 0°，則 scan2 為 45°...值為 **逆時針方向**
 
 ![](../../assets/multiangle-multiangle-to-material.png){width="450px"}

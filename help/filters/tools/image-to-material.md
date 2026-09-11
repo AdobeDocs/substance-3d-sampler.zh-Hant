@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/image-to-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/image-to-material.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的影像轉材質工具，利用AI驅動的處理將單一影像轉換為完整的PBR材質。
 helpx_creative_field: ""

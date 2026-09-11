@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/color-replace.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-replace.html"
 breadcrumb-title: ''
 description: 在 Substance 3D 取樣器中使用 Color Replace 濾鏡，將貼圖中的特定顏色替換成新的色彩值。
 helpx_creative_field: ""
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 * **進階分割**：切換\
   啟用後，濾鏡可使用獨立通道從受色彩替換影響的通道產生遮罩資訊。
-  * **口罩**&#x200B;**來源**：\
+  * **口罩****來源**：\
     選擇一個頻道作為遮罩產生的來源。 例如，金屬值的遮罩會替換材料金屬區域的底色
 * **替換：**\
   選擇受色彩替換影響的頻道。
@@ -59,8 +59,8 @@ ht-degree: 0%
   調整原有亮度值中新顏色亮度影響的程度。
 * **面具系列**\
   遮罩是根據以下數值組合而成
-  * **&#x200B;**&#x200B;**&#x200B;來自Luminosity &#x200B;**：0-1\
-    用於製作面罩的亮度範圍&#x200B;**&#x200B;**
+  * ******&#x200B;來自Luminosity **：0-1\
+    用於製作面罩的亮度範圍&#x200B;****
   * **球衣**：0-1\
     用於製作遮罩的色彩範圍
 * **遮罩平滑度**：0-1\

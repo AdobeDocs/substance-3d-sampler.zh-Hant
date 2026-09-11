@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/version-4-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-0.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 4.0 版本的發佈說明，學習如何從影像建立 3D 物件、自動遮罩及 UX 改進。
 helpx_creative_field: ""
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 你只需要開始拍攝一系列捕捉物體可見表面的照片——智慧型手機或 DLSR 相機都很適合。
 
-點此[&#128279;](../features-and-workflows/3d-capture.md)了解逐步工作流程。
+點此](../features-and-workflows/3d-capture.md)了解逐步工作流程[。
 
 ## 亮部
 

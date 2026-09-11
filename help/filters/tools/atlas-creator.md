@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Atlas Creator 工具，從多張圖片中建立材質圖集，以高效組織材質。
 helpx_creative_field: ""

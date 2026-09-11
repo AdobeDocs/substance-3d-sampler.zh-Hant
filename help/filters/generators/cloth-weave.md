@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的布料織造產生器，製作布料織法圖案和紡織材質材質。
 helpx_creative_field: ""
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 **進階**
 
-* **混合模式**&#x200B;**:** 選擇底色通道的混合模式。 改變混合模式可以大幅改變布料織布的外觀。
+* **混合模式****:** 選擇底色通道的混合模式。 改變混合模式可以大幅改變布料織布的外觀。
 * **瑕疵強度：** 0-1\
   設定線的強度和不完美。
 * **正常強度：** 0-2\

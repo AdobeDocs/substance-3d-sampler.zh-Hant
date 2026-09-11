@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 3.2 版本的發行說明，了解材料數位化工作流程、新濾鏡及自訂元資料。
 helpx_creative_field: ""

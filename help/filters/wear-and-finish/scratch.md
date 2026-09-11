@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Scratch 濾鏡，為材質添加逼真的刮痕和表面損傷效果。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 在材料上加上刮痕和磨損。
 
-*塗抹&#x200B;**Scratch 濾網**&#x200B;前後。*
+*塗抹&#x200B;**Scratch 濾網**前後。*
 
 <table>
 <tr style="border: 0;">
@@ -65,7 +65,7 @@ ht-degree: 0%
 * **刮痕**：切換\
   啟用或關閉刮痕。 啟用後 **，Scratch** 區塊會出現。
 * **晶片**：切換\
-  在表面加上剝落效果。 啟用後&#x200B;**&#x200B;**，晶片區塊會出現。
+  在表面加上剝落效果。 啟用後&#x200B;****，晶片區塊會出現。
 * **微刮**：切換\
   在表面加上細微刮痕。 啟用後 **會出現微刮痕** 區塊。
 

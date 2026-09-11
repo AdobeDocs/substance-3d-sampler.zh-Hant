@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 的通道設定面板來管理材質通道並控制通道可見性。
 helpx_creative_field: ""
@@ -78,7 +78,7 @@ ht-degree: 0%
 ![一張頻道選擇視窗的截圖，選取 Adobe Standard 材質為材質模型。](../../assets/6.0_ChannelSelectionWindow.png)
 
 要將頻道加入你的素材，請選擇一個可用的頻道並使用 **>按鈕**。
-要從你的素材中移除頻道，請從&#x200B;**「已選取頻道」列表中**&#x200B;選擇該頻道並使用&lt; button **&#x200B;**&#x200B;.
+要從你的素材中移除頻道，請從**「已選取頻道」列表中**&#x200B;選擇該頻道並使用&lt; button **** .
 你可以用 **≫按鈕** 將所有可用頻道加入素材，或用 **≪按鈕**&#x200B;移除所有頻道。
 
 你也可以用預設快速選取你素材的頻道列表。 預設情況下，Sampler 包含多個預設，但你也可以自行建立：

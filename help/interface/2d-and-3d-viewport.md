@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/2d-and-3d-viewport.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/2d-and-3d-viewport.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的 2D 與 3D 視口來預覽材質並有效操作工作區。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../assets/main-3d-viewport-5.png)
 
-視窗&#x200B;**會**&#x200B;顯示你目前的資產。在 V **&#x200B;**&#x200B;iewport **的頂端**，你可以看到資產名稱和更改&#x200B;**視窗**&#x200B;外觀的選項。利用這些選項來：
+視窗&#x200B;**會**&#x200B;顯示你目前的資產。在 V **** iewport **的頂端**，你可以看到資產名稱和更改**視窗**外觀的選項。利用這些選項來：
 
 * 改變資產的寬度和高度（像素單位）。
 * 可以同時顯示 <b>2D 視圖</b>、 <b>3D 視圖</b>，或同時顯示 <b>2D </b>與 <b>3D 視圖</b>。
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 <b>3D 視窗</b>有兩個工具列，可以讓你調整資產在視窗</b>中的<b>呈現方式。預設情況下，這些工具列會出現在 3D 視口</b>的右上角和中央下方<b>。
 
-![] ()
+![]()
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 >
 > 開啟陰影以改善視窗視覺效果。 關閉陰影以提升取樣器效能。
 
-![] ()
+![]()
 
 3D 視窗</b>底部中央<b>的工具列顯示以下資訊與控制項：
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 * <b>儲存快照</b>：將 3D Viewport</b> 的快照<b>儲存到影像檔案中。
 * <b>3D 視圖控制</b>：在 3D 視窗中快速查看相機控制。
 
-![] ()
+![]()
 
 ## 移動攝影機
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ## 2D 視角
 
-![] ()
+![]()
 
 預設情況下，只有 <b>3D 視角</b> 可見，不過 <b>2D 視圖</b> 可以包含許多有用的資訊和某些濾鏡的控制。
 

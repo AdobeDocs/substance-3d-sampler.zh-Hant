@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/stonewall.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/stonewall.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Stonewall 產生器，為材料創造逼真的石牆圖案和磚石材質。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
 breadcrumb-title: ''
 description: 使用Substance 3D取樣器的金屬表面濾鏡，將各種金屬表面處理和紋理應用於你的材料上。
 helpx_creative_field: ""

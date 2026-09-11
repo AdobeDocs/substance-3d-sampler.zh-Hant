@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的裂縫濾鏡，為材料添加逼真的裂紋圖案和表面損傷效果。
 helpx_creative_field: ""

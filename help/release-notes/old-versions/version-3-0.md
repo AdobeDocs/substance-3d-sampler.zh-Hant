@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 3.0 版本的發布說明，了解使用者介面重製、環境光源、濾鏡及 Creative Cloud 整合。
 helpx_creative_field: ""
@@ -55,7 +55,7 @@ Sampler 現在能支援專案。 [專案面板](../../interface/panels/project-p
 
 ![](../../assets/idl.jpg){width="600px"}
 
-Sampler 現在讓你不只製作材料。 環境燈是一種新型資產，擁有 [自己的一套濾鏡](../../filters/hdri-tools/hdri-tools.md)。 可以從[包圍後的 360 度照片開始，從零](../../filters/hdri-tools/shape-light.md)開始製作環境燈[&#128279;](../../filters/hdri-tools/hdr-merge.md)，或[編輯現有的 HDR 檔案](../../filters/hdri-tools/nadir-patch.md)。
+Sampler 現在讓你不只製作材料。 環境燈是一種新型資產，擁有 [自己的一套濾鏡](../../filters/hdri-tools/hdri-tools.md)。 可以從[包圍後的 360 度照片開始，從零](../../filters/hdri-tools/shape-light.md)開始製作環境燈[，或[編輯現有的 HDR 檔案](../../filters/hdri-tools/nadir-patch.md)。](../../filters/hdri-tools/hdr-merge.md)
 
 ### 重新設計與新濾鏡
 
@@ -87,7 +87,7 @@ Sampler 現在 [可以輕鬆地與 Substance 3D Painter 和 Stager 共享材質�
 ### 全新即時渲染引擎
 
 * 支援ASM材質，使得在擁有更多材料管道的應用程式間呈現一致的外觀。
-* 切換兩個 [即時引擎](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
+* 切換兩個 [即時引擎](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
 * 能夠控制網格上的預設材質
 
 ### 一般改良

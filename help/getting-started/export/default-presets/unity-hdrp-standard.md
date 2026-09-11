@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-standard.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-standard.html"
 breadcrumb-title: ''
 description: 學習如何使用 Unity HDRP Standard 預設的 High Resolution Render Pipeline 從 Substance 3D Sampler 匯出材質。
 helpx_creative_field: ""

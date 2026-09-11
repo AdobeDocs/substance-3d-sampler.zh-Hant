@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/splatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的濺射產生器，為材質貼圖創造顏料飛濺和隨機圖案效果。
 helpx_creative_field: ""
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 **正常**
 
-* **背景**&#x200B;標準&#x200B;**&#x200B;**：0-1\
+* **背景**&#x200B;標準&#x200B;****：0-1\
   調整每個實例下材質法線對該實例法線的影響程度。
 * **正常角度隨機**：0-1\
   將每個實例的法線斜斜以隨機角度。

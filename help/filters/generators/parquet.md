@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/parquet.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/parquet.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的拼花木產生器，為材料創造逼真的拼花木地板圖案與質感。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 將你的材料改造成拼花地板。
 
-*木製材料經過&#x200B;**Parquet 濾網**&#x200B;轉換成拼花圖案。*
+*木製材料經過&#x200B;**Parquet 濾網**轉換成拼花圖案。*
 
 <table>
 <tr style="border: 0;">

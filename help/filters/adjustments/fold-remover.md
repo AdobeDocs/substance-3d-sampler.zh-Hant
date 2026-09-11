@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的摺痕去除濾鏡，去除布料紋理上的摺痕和摺痕，讓材質表面更乾淨。
 helpx_creative_field: ""

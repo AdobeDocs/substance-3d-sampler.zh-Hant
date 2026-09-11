@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Straighten Horizon 工具來修正 HDRI 環境影像中的地平線對齊。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Quilt Stitch產生器，為材料製作拼布布料圖案和縫紉紋理。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 用這個濾網在材料中模擬縫製的拼布圖案。
 
-*在塗抹&#x200B;**被子縫製濾鏡**&#x200B;前後。*
+*在塗抹&#x200B;**被子縫製濾鏡**前後。*
 
 <table>
 <tr style="border: 0;">
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 **煤層**
 
-* **縫線**&#x200B;**選擇**：\
+* **縫線****選擇**：\
   選擇要使用的縫線款式
 * **縫線強度**：0-1\
   調整接縫的法線強度與高度強度

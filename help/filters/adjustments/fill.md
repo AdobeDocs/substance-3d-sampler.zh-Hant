@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的填充濾鏡，將材質區域填滿純色或圖案，方便材質製作工作流程。
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 2%
 
 ## 說明
 
-**填充過濾器**&#x200B;可以根據選取的值替換或調整特定頻道的數值。
+**填充過濾器**可以根據選取的值替換或調整特定頻道的數值。
 從取樣器 6.0 開始，填充濾波器會根據所應用的通道類型調整參數。 這確保可用的控制項總是與所選頻道的物理意義和資料類型相符，且過濾器可套用於任何地圖，甚至是自訂工作流程。
 
 下方圖片中，底色通道已被更換。

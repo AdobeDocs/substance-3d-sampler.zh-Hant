@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/upscale.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的放大工具，利用 AI 驅動的放大技術提升材質解析度。
 helpx_creative_field: ""
@@ -79,7 +79,7 @@ ht-degree: 1%
 
 ![](../../assets/SAPR_Upscale_screen_001.png)
 
-在上方圖片中，低解析度影像由影像轉材質（AI 驅動）[&#128279;](image-to-material.md)處理。
+在上方圖片中，低解析度影像由影像轉材質（AI 驅動）](image-to-material.md)處理[。
 
 ![](../../assets/SAPR_Upscale_Screen_003.png)
 

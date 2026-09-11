@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用曝光預覽工具，在 HDRI 影像中預覽曝光調整，再進行修改。
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 說明
 
-**曝光預覽**&#x200B;**濾鏡**&#x200B;讓你能快速預覽一系列曝光值。
+**曝光預覽****濾鏡**&#x200B;讓你能快速預覽一系列曝光值。
 
 下面你可以看看曝光預覽濾鏡&#x200B;**的作用**。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](../../assets/filters-cropped-0028-exposure-preview-out.jpg)
 
-隨著&#x200B;**層層堆疊中新增曝光預覽**&#x200B;**濾鏡**，新增一個通道——環境診斷（Environment Diagnostics），可顯示不同曝光下的環境光源。
+隨著&#x200B;**層層堆疊中新增曝光預覽****濾鏡**，新增一個通道——環境診斷（Environment Diagnostics），可顯示不同曝光下的環境光源。
 
 </td>
 </tr>

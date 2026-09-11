@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
 breadcrumb-title: ''
 description: 請參閱有關 Substance 3D Sampler 中 HP Z Captis 支援的常見問題，以了解硬體整合與使用方式的相關資訊。
 helpx_creative_field: ""
@@ -53,12 +53,12 @@ Captis 裝置需持有有效的 Substance 3D Sampler Enterprise、Teams 或 Univ
 +++Adobe 的 Substance 套件整合程度如何？
 HP Z Captis 裝置完全由 Adobe Substance 3D 取樣器控制與操作：你可以從 Substance 3D 取樣器預覽並啟動擷取，擷取完成後會自動將 PBR 通道載入為圖層並建立 3D 材質。 你可以繼續使用Sampler中所有可用的工具和濾鏡來處理你的材料。
 
-一旦你捕捉到的素材進入 Substance 3D Sampler，你可以將其匯出到 Substance 3D 套件中的任何應用程式（Substance 3D Designer、Painter、Stager）以及任何支援 Substance 的第三方應用程式，包括 3DS Max、Maya、Blender、Unreal Engine、CLO、Browzwear、VRED、Rhino、Cinema4D 等（完整列表請見此處：<https://www.adobe.com/tw/products/substance3d/plugins.html>）。
+一旦你捕捉到的素材進入 Substance 3D Sampler，你可以將其匯出到 Substance 3D 套件中的任何應用程式（Substance 3D Designer、Painter、Stager）以及任何支援 Substance 的第三方應用程式，包括 3DS Max、Maya、Blender、Unreal Engine、CLO、Browzwear、VRED、Rhino、Cinema4D 等（完整列表請見此處：<https://www.adobe.com/products/substance3d/plugins.html>）。
 
 +++
 
 +++使用 Substance 3D Sampler 搭配 Captis 的建議規格是什麼？
-取樣器硬體規格可在此[&#128279;](system-requirements-to-use-hp-z-captis.md)查閱。
+取樣器硬體規格可在此](system-requirements-to-use-hp-z-captis.md)查閱[。
 
 +++
 
@@ -100,7 +100,7 @@ HP Z Captis 裝置完全由 Adobe Substance 3D 取樣器控制與操作：你可
 +++掃描後的資料可以匯出哪些格式？
 HP Z Captis 由 Adobe Substance 3D Sampler 原生操作。 HP Z Captis 可擷取 64 張原始影像（可從本地資料夾擷取）及 PBR 地圖（由原始影像處理後自動載入 Substance 3D Sampler）。 Substance 3D Sampler 會根據擷取後自動載入 Sampler 圖層堆疊的 PBR 通道，建立一個 3D 材質。
 
-從 Adobe Substance 3D Sampler，你可以以 Substance 3D Sampler 中任何可用的匯出格式匯出你的數位素材：作為 Substance 檔案（.SBS 和 .SBSAR 檔案）或以點陣貼圖，包括 .PNG、.JPG、.TIFF......（詳情請參見 Sampler 文件網頁：[https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)）。
+從 Adobe Substance 3D Sampler，你可以以 Substance 3D Sampler 中任何可用的匯出格式匯出你的數位素材：作為 Substance 檔案（.SBS 和 .SBSAR 檔案）或以點陣貼圖，包括 .PNG、.JPG、.TIFF......（詳情請參見 Sampler 文件網頁：[https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)）。
 
 +++
 
@@ -116,9 +116,9 @@ HP Z Captis 由 Adobe Substance 3D Sampler 原生操作。 HP Z Captis 可擷取
 +++如果我使用特定的檔案格式、標準與規範，或是第三方應用程式，我該如何在目前的 3D 流程中使用 Captis？
 HP Z Captis 由 Adobe Substance 3D Sampler 原生操作。 一旦你在 Substance 3D Sampler 中擷取並數位化你的材料樣本，就能無縫匯出你的數位材料：
 
-在 Substance 3D 生態系統的任何應用中（包括支援多種匯出格式的 Substance 3D Designer 或 Substance 3D Painter：https://experienceleague.adobe.com/zh-hant/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats）。
+在 Substance 3D 生態系統的任何應用中（包括支援多種匯出格式的 Substance 3D Designer 或 Substance 3D Painter：https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats）。
 
-在任何整合 Substance 檔案格式的應用程式中，如 3DS Max、Maya、Blender、C4D、Rhino、Browzwear、CLO......（完整列表請見此處：<https://www.adobe.com/tw/products/substance3d/plugins.html>）。 如果你使用的應用程式未列入該格式，也可以匯出 PBR 材質圖片，手動插入任何原生不支援 Substance 檔案格式的應用程式中。
+在任何整合 Substance 檔案格式的應用程式中，如 3DS Max、Maya、Blender、C4D、Rhino、Browzwear、CLO......（完整列表請見此處：<https://www.adobe.com/products/substance3d/plugins.html>）。 如果你使用的應用程式未列入該格式，也可以匯出 PBR 材質圖片，手動插入任何原生不支援 Substance 檔案格式的應用程式中。
 
 +++
 

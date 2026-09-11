@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/importing-resources.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/importing-resources.html"
 breadcrumb-title: ''
 description: 學習如何將圖片和 Substance 檔案等資源匯入 Substance 3D Sampler，以提升你的材質製作工作流程。
 helpx_creative_field: ""

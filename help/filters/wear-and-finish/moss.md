@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/moss.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/moss.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的苔蘚濾鏡，為你的材料添加逼真的苔蘚生長和有機表面效果。
 helpx_creative_field: ""
@@ -69,7 +69,7 @@ ht-degree: 0%
 * **次要苔蘚色**：顏色選擇\
   選擇苔蘚的次要顏色。
 * **苔蘚重新劃分**：\
-  選擇塗抹苔蘚的方法。 預設 **情況下，Occlusion** 會用你材質的 AO 貼圖來套用苔蘚，但其他選項會有不同的效果。 如果&#x200B;**選擇自訂**&#x200B;**遮罩**，**遮罩**&#x200B;**區**&#x200B;塊就會出現。
+  選擇塗抹苔蘚的方法。 預設 **情況下，Occlusion** 會用你材質的 AO 貼圖來套用苔蘚，但其他選項會有不同的效果。 如果&#x200B;**選擇自訂****遮罩**，**遮罩****區**&#x200B;塊就會出現。
 
 **面具**
 
@@ -99,7 +99,7 @@ ht-degree: 0%
     控制決定苔蘚是否出現的門檻。
   * **頂部苔蘚角度**&#x200B;根據法線貼圖調整苔蘚與材質的應用方式。
 * **全部**
-  * **所有**&#x200B;參數都包含了上述&#x200B;**遮蔽**、**整體**&#x200B;**和頂部**&#x200B;等參數。
+  * **所有**&#x200B;參數都包含了上述&#x200B;**遮蔽**、**整體****和頂部**&#x200B;等參數。
 
 以下參數可獨立於 Moss 重新分配&#x200B;**的基本參數>選擇**&#x200B;哪個選項。
 

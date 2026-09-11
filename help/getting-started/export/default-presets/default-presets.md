@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D Sampler 中各種軟體應用程式和渲染引擎的預設匯出預設設定。
 helpx_creative_field: ""
@@ -25,8 +25,8 @@ Sampler 包含一份匯出預設清單，會根據你想匯入的軟體來打包
 * [阿諾德 5](arnold-5.md)
 * [Blender Cycles/伊布](blender-cycles-eevee.md)
 * [Corona Renderer](corona-renderer.md)
-* [Enscape - Revit](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sadoc/enscape-188976476.html)
-* [關鍵攝影 9+](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sadoc/keyshot-9-188976247.html)
+* [Enscape - Revit](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/enscape-188976476.html)
+* [關鍵攝影 9+](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/keyshot-9-188976247.html)
 * [鏡頭工作室](lens-studio.md)
 * [Spark AR 工作室](spark-ar-studio.md)
 * [Unity HDRP 標準](unity-hdrp-standard.md)

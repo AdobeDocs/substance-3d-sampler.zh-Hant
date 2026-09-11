@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/home.html"
 breadcrumb-title: ''
 description: 開始使用 Substance 3D Sampler，從影像製作材質、編輯環境光源並建立材質庫。
 helpx_creative_field: ""
@@ -41,7 +41,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
-> 如果你在尋找舊版&#x200B;**《物質煉金術師**》的文件，可以在這裡[&#128279;](https://www.dropbox.com/s/sqvznduc12cuyuq/SubstanceAlchemist_June2021.pdf?dl=1)下載PDF檔。本文件現聚焦於 Substance 3D 取樣器。
+> 如果你在尋找舊版&#x200B;**《物質煉金術師**》的文件，可以在這裡](https://www.dropbox.com/s/sqvznduc12cuyuq/SubstanceAlchemist_June2021.pdf?dl=1)下載PDF[檔。本文件現聚焦於 Substance 3D 取樣器。
 
 <table>
 <tr style="border: 0;">

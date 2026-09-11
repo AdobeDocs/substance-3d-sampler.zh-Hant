@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/channels-generation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channels-generation.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Channels Generation 工具，從現有貼圖產生材質通道。
 helpx_creative_field: ""

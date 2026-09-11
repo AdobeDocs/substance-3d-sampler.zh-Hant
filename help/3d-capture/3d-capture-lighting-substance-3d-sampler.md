@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 光源
 
-如果你想透過影片教學了解更多 3D 捕捉燈光設定，可以在這裡[&#128279;](https://youtu.be/7mgpmlq6xAc?si=_ubOyBsNFAPrPEmD "3D 拍攝照明教學影片教學")找到。
+如果你想透過影片教學了解更多 3D 捕捉燈光設定，可以在這裡](https://youtu.be/7mgpmlq6xAc?si=_ubOyBsNFAPrPEmD "3D 拍攝照明教學影片教學")找到。[
 
 攝影測量需要均勻且均勻的光線。
 

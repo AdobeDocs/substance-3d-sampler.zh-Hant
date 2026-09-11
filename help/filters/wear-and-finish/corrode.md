@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/corrode.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/corrode.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用腐蝕過濾器，對金屬材料添加腐蝕和化學劣化效果。
 helpx_creative_field: ""

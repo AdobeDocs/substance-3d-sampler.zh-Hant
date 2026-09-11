@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/normal-to-height.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/normal-to-height.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的法線到高度工具，將法線貼圖轉換成材質製作工作流程中的高度貼圖。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 根據正常通道產生高度資訊。
 
-下方圖片展示了 **法線到高度濾鏡** 的運作情況。 在第一張圖片中，高度圖沒有高度資訊。 在第二張圖片中，套用法線到高度&#x200B;**&#x200B;**&#x200B;濾鏡&#x200B;**後**，會產生一個逼真的高度圖。
+下方圖片展示了 **法線到高度濾鏡** 的運作情況。 在第一張圖片中，高度圖沒有高度資訊。 在第二張圖片中，套用法線到高度&#x200B;****&#x200B;濾鏡&#x200B;**後**，會產生一個逼真的高度圖。
 
 ![](../../assets/3d-2d-filters-cropped-0009-normal-to-height-in.jpg)![](../../assets/filters-cropped-0008-normal-height-out.jpg)
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中處理進階 3D 擷取，以優化幾何、材質與材質品質。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 在這份使用指南中，我們將深入探討如何在 Substance 3D Sampler 中處理您的 3D 擷取資料集。
 
-你比較喜歡把這部影片當作教學看嗎？ 你可以在這裡[&#128279;](https://youtu.be/vJQ756Up55Y?si=GiAnajXRGkb5gyTH "進階 3D 擷取 - 擷取處理教學")找到它。
+你比較喜歡把這部影片當作教學看嗎？ 你可以在這裡](https://youtu.be/vJQ756Up55Y?si=GiAnajXRGkb5gyTH "進階 3D 擷取 - 擷取處理教學")找到它[。
 
 ![](../assets/cloud-points-3d-capture.png)
 

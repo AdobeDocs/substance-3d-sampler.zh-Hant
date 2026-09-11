@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D Sampler 介面中的左右側邊欄，以導航工具、面板及應用程式功能。
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ Sampler 有兩個側邊欄，分別是 **左側邊欄** 和 **右側邊欄**。
 
 * **新增與匯入內容**：匯入圖片並選擇如何整合到你的專案中。
 * **瀏覽 3D 素材**：在 Creative Cloud Desktop 中存取數千個來自 Substance 3D 資產的素材。
-* 存取 **快速行動**：一組快速達成特定目標的行動。 [了解更多關於快速行動的資訊&#x200B;**&#x200B;**](../features-and-workflows/quick-actions.md)**。**
+* 存取 **快速行動**：一組快速達成特定目標的行動。 [了解更多關於快速行動的資訊&#x200B;****](../features-and-workflows/quick-actions.md)**。**
 * 快速將濾鏡加入圖層堆疊：
   * **裁切：**&#x200B;在 2D 視圖&#x200B;**中使用手柄**&#x200B;裁切影像和材質。
   * **透視轉換：** 在 2D 視圖中修正用手柄 **修正透視錯誤。**

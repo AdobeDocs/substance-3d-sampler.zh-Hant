@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/perforate.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/perforate.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的穿孔產生器，在材質和材質中建立穿孔圖案和孔洞陣列。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 用穿孔過濾器在材料上打孔。
 
-*在使用&#x200B;**穿孔過濾器**&#x200B;前後。*
+*在使用&#x200B;**穿孔過濾器**前後。*
 
 <table>
 <tr style="border: 0;">
@@ -79,7 +79,7 @@ ht-degree: 0%
   * **反轉比例地圖**：切換\
     反轉比例尺映射的值
   * **自訂比例貼圖**：影像/筆刷\
-    匯入圖片作為比例圖，或用畫筆直接在 2D **&#x200B;**&#x200B;視圖中&#x200B;**繪製比例圖**
+    匯入圖片作為比例圖，或用畫筆直接在 2D ****&#x200B;視圖中&#x200B;**繪製比例圖**
 
 **面具**
 

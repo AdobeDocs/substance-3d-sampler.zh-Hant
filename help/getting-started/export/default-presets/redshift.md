@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
 breadcrumb-title: ''
 description: 學習如何使用 Redshift 預設從 Substance 3D Sampler 匯出材質，以相容 Redshift 渲染引擎。
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | 預設集 | 相容性 | 包裝輸出說明 |
 | --- | --- | --- |
-| 紅移 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **漫反射&#x200B;**&#x200B;**粗糙度**&#x200B;**金屬度&#x200B;**&#x200B;**正向**&#x200B;**位移&#x200B;**&#x200B;**發射**&#x200B;**不透明度** |
+| 紅移 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **漫反射&#x200B;****粗糙度****金屬度&#x200B;****正向****位移&#x200B;****發射****不透明度** |

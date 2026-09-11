@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/pipeline-and-integrations.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D Sampler 的管線與整合選項，以連結其他應用程式並自動化工作流程。
 helpx_creative_field: ""
