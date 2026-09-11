@@ -28,7 +28,7 @@ ht-degree: 0%
 
 在這份使用指南中，我們將說明如何處理反光物體及其造成的問題，以及如何利用光偏振來解決這些問題。
 
-你比較喜歡透過影片教學來學習這個主題嗎？ 在這裡](https://youtu.be/VWsbP56MDk0?si=Hdp7vblJB6L1RPxK "交叉極化教學")找到。[
+你比較喜歡透過影片教學來學習這個主題嗎？ 在這裡[&#128279;](https://youtu.be/VWsbP56MDk0?si=Hdp7vblJB6L1RPxK "交叉極化教學")找到。
 
 ![](../assets/polarized-lens-3d-capture.png)
 

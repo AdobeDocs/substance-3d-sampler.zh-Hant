@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 預設集 | 相容性 | 包裝輸出說明 |
 | --- | --- | --- |
-| Blender Cycles/伊布 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **基色&#x200B;****粗糙度****金屬&#x200B;****法向位****移&#x200B;********發射阿爾法** |
+| Blender Cycles/伊布 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li></ul> | **基色&#x200B;**&#x200B;**粗糙度**&#x200B;**金屬&#x200B;**&#x200B;**法向位**&#x200B;**移&#x200B;**&#x200B;**&#x200B;**&#x200B;**發射阿爾法** |

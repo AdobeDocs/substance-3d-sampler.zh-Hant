@@ -58,7 +58,7 @@ HP Z Captis 裝置完全由 Adobe Substance 3D 取樣器控制與操作：你可
 +++
 
 +++使用 Substance 3D Sampler 搭配 Captis 的建議規格是什麼？
-取樣器硬體規格可在此](system-requirements-to-use-hp-z-captis.md)查閱[。
+取樣器硬體規格可在此[&#128279;](system-requirements-to-use-hp-z-captis.md)查閱。
 
 +++
 

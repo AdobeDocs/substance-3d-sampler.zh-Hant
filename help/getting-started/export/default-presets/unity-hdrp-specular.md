@@ -22,4 +22,4 @@ ht-degree: 3%
 
 | 預設集 | 相容性 | 包裝輸出說明 |
 | --- | --- | --- |
-| Unity HRDP Specular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li><li data-preserve-html="true">PBR 鏡面/光澤</li></ul> | **底色：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>：基色</li><li data-preserve-html="true"><strong>答</strong>：不透明度</li></ul>**面具地圖：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>G</strong>：環境遮蔽</li><li data-preserve-html="true"><strong>答</strong>：平滑度</li></ul>**鏡面****正常** （OpenGL）**發射** |
+| Unity HRDP Specular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 金屬質感/粗糙感</li><li data-preserve-html="true">PBR 鏡面/光澤</li></ul> | **底色：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>：基色</li><li data-preserve-html="true"><strong>答</strong>：不透明度</li></ul>**面具地圖：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>G</strong>：環境遮蔽</li><li data-preserve-html="true"><strong>答</strong>：平滑度</li></ul>**鏡面**&#x200B;**正常** （OpenGL）**發射** |

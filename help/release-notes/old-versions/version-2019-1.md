@@ -73,7 +73,7 @@ Layer Stack 從零重建，擴展其可能性與行動。 主要變更包括：
 
 ![](../../assets/sa-notes-viewport.jpg)
 
-視窗新增了一些功能，提升了使用效率。 這些新設定可在檢視器設定面板](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)中存取[。
+視窗新增了一些功能，提升了使用效率。 這些新設定可在檢視器設定面板[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)中存取。
 
 * **相機模式**\
   相機投影模式允許在透視與正交投影間選擇。

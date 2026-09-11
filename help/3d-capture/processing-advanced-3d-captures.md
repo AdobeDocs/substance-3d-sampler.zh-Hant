@@ -28,7 +28,7 @@ ht-degree: 0%
 
 在這份使用指南中，我們將深入探討如何在 Substance 3D Sampler 中處理您的 3D 擷取資料集。
 
-你比較喜歡把這部影片當作教學看嗎？ 你可以在這裡](https://youtu.be/vJQ756Up55Y?si=GiAnajXRGkb5gyTH "進階 3D 擷取 - 擷取處理教學")找到它[。
+你比較喜歡把這部影片當作教學看嗎？ 你可以在這裡[&#128279;](https://youtu.be/vJQ756Up55Y?si=GiAnajXRGkb5gyTH "進階 3D 擷取 - 擷取處理教學")找到它。
 
 ![](../assets/cloud-points-3d-capture.png)
 

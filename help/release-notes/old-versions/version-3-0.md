@@ -55,7 +55,7 @@ Sampler 現在能支援專案。 [專案面板](../../interface/panels/project-p
 
 ![](../../assets/idl.jpg){width="600px"}
 
-Sampler 現在讓你不只製作材料。 環境燈是一種新型資產，擁有 [自己的一套濾鏡](../../filters/hdri-tools/hdri-tools.md)。 可以從[包圍後的 360 度照片開始，從零](../../filters/hdri-tools/shape-light.md)開始製作環境燈[，或[編輯現有的 HDR 檔案](../../filters/hdri-tools/nadir-patch.md)。](../../filters/hdri-tools/hdr-merge.md)
+Sampler 現在讓你不只製作材料。 環境燈是一種新型資產，擁有 [自己的一套濾鏡](../../filters/hdri-tools/hdri-tools.md)。 可以從[包圍後的 360 度照片開始，從零](../../filters/hdri-tools/shape-light.md)開始製作環境燈[&#128279;](../../filters/hdri-tools/hdr-merge.md)，或[編輯現有的 HDR 檔案](../../filters/hdri-tools/nadir-patch.md)。
 
 ### 重新設計與新濾鏡
 

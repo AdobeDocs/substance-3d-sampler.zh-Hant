@@ -34,7 +34,7 @@ ht-degree: 0%
 
 你只需要開始拍攝一系列捕捉物體可見表面的照片——智慧型手機或 DLSR 相機都很適合。
 
-點此](../features-and-workflows/3d-capture.md)了解逐步工作流程[。
+點此[&#128279;](../features-and-workflows/3d-capture.md)了解逐步工作流程。
 
 ## 亮部
 

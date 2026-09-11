@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 更新檢查器
 
-更新視窗會顯示是否有新版本的物質鍊金術師可用，並顯示](../../release-notes/release-notes.md)最新的[發行說明。
+更新視窗會顯示是否有新版本的物質鍊金術師可用，並顯示[&#128279;](../../release-notes/release-notes.md)最新的發行說明。
 
 若有新版本可下載，啟動 Substance Alchemist 時會自動跳出此視窗。
 

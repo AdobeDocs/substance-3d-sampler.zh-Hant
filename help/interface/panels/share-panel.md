@@ -56,6 +56,6 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> 欲了解更多關於匯出對話框選項及檔案格式等資訊，請參閱[匯出](../../getting-started/export/export.md)文章](../../getting-started/export/export-window/export-window.md)及其[子條目（匯出視窗）。
+> 欲了解更多關於匯出對話框選項及檔案格式等資訊，請參閱[匯出](../../getting-started/export/export.md)文章[&#128279;](../../getting-started/export/export-window/export-window.md)及其子條目（匯出視窗）。
 
 當你對匯出設定滿意後，點擊 **匯出**。 你的匯出會出現在匯出佇列中，佇列會顯示最近的匯出清單。 點擊任何匯出時的資料夾圖示，即可開啟該匯出的檔案位置。

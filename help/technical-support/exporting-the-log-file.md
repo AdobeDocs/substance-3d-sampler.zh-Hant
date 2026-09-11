@@ -34,12 +34,12 @@ ht-degree: 0%
 
 Adobe 版本：
 
-* **Windows**：C：\Users\** username**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
+* **Windows**：C：\Users\**&#x200B; username**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**：Macintosh > 使用者> **使用者名稱** >函式庫>應用程式支援>Adobe >Adobe Substance 3D Sampler > log.txt
 
 Substance3D 版本：
 
-* **Windows**：C：\Users\** username**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
+* **Windows**：C：\Users\**&#x200B; username**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**：Macintosh > 使用者> **使用者名稱** >函式庫>應用程式支援> Allegorithmic > Adobe Substance 3D 取樣器> log.txt
 * **Linux**：/home/**username**/.local/share/Allegorithmic/Adobe Substance 3D Sampler/log.txt
 

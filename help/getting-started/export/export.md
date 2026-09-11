@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 匯出
 
-你可以在檔案選單中選擇&#x200B;**「匯出****」，或用快捷鍵** Ctrl + E **匯出素材。這會開啟[匯出視窗](../../getting-started/export/export-window/export-window.md)，讓你自訂匯出**&#x200B;內容。
+你可以在檔案選單中選擇&#x200B;**「匯出**&#x200B;**」，或用快捷鍵** Ctrl + E **匯出素材。這會開啟[匯出視窗](../../getting-started/export/export-window/export-window.md)，讓你自訂匯出**&#x200B;內容。
 
 >[!NOTE]
 >
