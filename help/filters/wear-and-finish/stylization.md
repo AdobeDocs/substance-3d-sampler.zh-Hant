@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/stylization.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/stylization.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Stylization 濾鏡，為材質和材質套用藝術效果和風格化的外觀。
 helpx_creative_field: ""

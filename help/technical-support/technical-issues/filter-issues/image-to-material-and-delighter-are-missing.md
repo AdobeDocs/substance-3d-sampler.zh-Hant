@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-and-delighter-are-missing.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-and-delighter-are-missing.html"
 breadcrumb-title: ''
 description: 了解如何透過檢查系統需求，解決 Substance 3D Sampler 中缺少的 Image to Material 和 Delighter 濾鏡。
 helpx_creative_field: ""

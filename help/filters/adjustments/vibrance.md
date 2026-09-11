@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Vibrance濾鏡，提升色彩飽和度與質感鮮豔度，同時保留膚色。
 helpx_creative_field: ""

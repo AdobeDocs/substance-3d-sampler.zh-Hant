@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中處理進階 3D 擷取，以優化幾何、材質與材質品質。
 helpx_creative_field: ""

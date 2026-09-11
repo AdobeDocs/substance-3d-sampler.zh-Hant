@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的曝光參數面板來曝光濾鏡參數以便外部編輯。
 helpx_creative_field: ""

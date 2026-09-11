@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/2d-and-3d-viewport.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/2d-and-3d-viewport.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的 2D 與 3D 視口來預覽材質並有效操作工作區。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/3d-capture.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/3d-capture.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用 3D 擷取，利用攝影測量技術從真實物件製作材料。
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ Windows/Linux
 * 16GB 記憶體。 理想狀況是 32GB 和 64Gb。
 * 至少 10GB 的磁碟空間
 
-[Linux 配置](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
+[Linux 配置](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
 
 麥克
 

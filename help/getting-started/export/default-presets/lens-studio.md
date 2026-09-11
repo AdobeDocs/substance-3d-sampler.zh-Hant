@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
 breadcrumb-title: ''
 description: 學習如何使用 Lens Studio 預設的 Substance 3D Sampler 匯出材質，用於 Snapchat AR 鏡頭開發工作流程。
 helpx_creative_field: ""

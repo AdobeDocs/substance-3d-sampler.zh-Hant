@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/home.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/home.html"
 breadcrumb-title: ''
 description: 開始使用 Substance 3D Sampler，從影像製作材質、編輯環境光源並建立材質庫。
 helpx_creative_field: ""

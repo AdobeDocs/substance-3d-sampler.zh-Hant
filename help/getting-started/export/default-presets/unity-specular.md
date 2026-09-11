@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
 breadcrumb-title: ''
 description: 學習如何使用 Unity Specular 預設從 Substance 3D Sampler 匯出材質以提升 Unity 遊戲引擎相容性。
 helpx_creative_field: ""

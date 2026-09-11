@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Panorama Patch 工具，對全景 HDRI 環境影像中的區域進行修補與修復。
 helpx_creative_field: ""

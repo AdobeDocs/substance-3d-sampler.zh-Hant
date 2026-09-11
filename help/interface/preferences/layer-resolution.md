@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中設定圖層解析度，以控制材質堆疊中各圖層的解析度。
 helpx_creative_field: ""

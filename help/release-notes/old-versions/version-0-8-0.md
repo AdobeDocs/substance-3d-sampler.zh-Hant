@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-8-0.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/old-versions/version-0-8-0.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 0.8.0 版本的發行說明，了解新功能、更新與改進。
 helpx_creative_field: ""

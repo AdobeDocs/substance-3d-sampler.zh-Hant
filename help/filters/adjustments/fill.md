@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的填充濾鏡，將材質區域填滿純色或圖案，方便材質製作工作流程。
 helpx_creative_field: ""

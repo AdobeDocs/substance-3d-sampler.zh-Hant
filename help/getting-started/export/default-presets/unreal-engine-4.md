@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
 breadcrumb-title: ''
 description: 學習如何使用 Unreal Engine 4 預設從 Substance 3D Sampler 匯出材質，用於遊戲開發工作流程。
 helpx_creative_field: ""

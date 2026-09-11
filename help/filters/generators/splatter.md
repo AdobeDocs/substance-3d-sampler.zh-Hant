@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的濺射產生器，為材質貼圖創造顏料飛濺和隨機圖案效果。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-3-4.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/release-notes/version-3-4.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Sampler 3.4 版本的發布說明，了解旨在提升 3D 工作流程速度與品質的新功能。
 helpx_creative_field: ""

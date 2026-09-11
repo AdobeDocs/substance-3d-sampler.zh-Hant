@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的 Nadir Extract 工具，從 HDRI 環境影像中擷取並分離 nadir 區域。
 helpx_creative_field: ""

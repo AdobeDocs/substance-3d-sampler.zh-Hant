@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用 Adobe 標準材質，製作與 Adobe 材質標準相容的材質。
 helpx_creative_field: ""

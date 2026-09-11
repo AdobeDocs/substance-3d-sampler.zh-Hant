@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/generative-workflows.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/generative-workflows.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的生成式工作流程，包括文字轉紋理、文字轉圖案及圖片轉紋理功能。
 helpx_creative_field: ""

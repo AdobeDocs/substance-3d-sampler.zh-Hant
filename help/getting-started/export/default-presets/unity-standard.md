@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-standard.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export/default-presets/unity-standard.html"
 breadcrumb-title: ''
 description: 學習如何使用 Unity Standard 預設從 Substance 3D Sampler 匯出材質以支援 Unity 遊戲引擎。
 helpx_creative_field: ""

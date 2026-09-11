@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的自動平鋪工具，利用 AI 技術自動從貼圖中建立無縫的平鋪圖案。
 helpx_creative_field: ""

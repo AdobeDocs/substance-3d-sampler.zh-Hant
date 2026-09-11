@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/varnish.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/wear-and-finish/varnish.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的清漆濾鏡，為您的材料添加光亮的清漆效果和保護塗層。
 helpx_creative_field: ""

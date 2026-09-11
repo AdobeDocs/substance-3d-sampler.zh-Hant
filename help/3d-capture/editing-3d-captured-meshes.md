@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中編輯 3D 捕捉的網格，以精煉幾何體、修正問題並優化網格品質。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/embossing.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的壓紋產生器，為材質創造壓紋圖案和凸起表面立體效果。
 helpx_creative_field: ""

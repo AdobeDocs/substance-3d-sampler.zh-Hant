@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ''
 description: 學習如何從 Substance 3D Sampler 匯出各種格式和預設，以便在其他應用程式和引擎中使用。
 helpx_creative_field: ""
@@ -45,5 +45,5 @@ Sampler 支援主要的素材檔案格式：
 
 * [匯出視窗](../../getting-started/export/export-window/export-window.md)
 * [預設預設](../../getting-started/export/default-presets/default-presets.md)
-* [管理自訂預設](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
+* [管理自訂預設](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
 * [管理預設](managing-presets.md)

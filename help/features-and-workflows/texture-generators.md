@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中使用貼圖產生器，來製作程序化材質貼圖與圖案。
 helpx_creative_field: ""
@@ -137,4 +137,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 你可以在 Sampler 裡直接暴露濾波器參數來控制濾波器。 點此查看操作指南[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> 你可以在 Sampler 裡直接暴露濾波器參數來控制濾波器。 點此查看操作指南[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)

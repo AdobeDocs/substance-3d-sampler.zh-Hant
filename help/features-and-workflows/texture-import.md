@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-import.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/texture-import.html"
 breadcrumb-title: ''
 description: 學習如何將材質匯入 Substance 3D Sampler，以便在材質製作工作流程中使用現有的影像檔案。
 helpx_creative_field: ""

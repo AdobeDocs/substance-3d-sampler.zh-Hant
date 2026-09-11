@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 中的「作為點陣圖使用」功能，將圖層轉換成點陣圖格式，以提升材質編輯效率。
 helpx_creative_field: ""

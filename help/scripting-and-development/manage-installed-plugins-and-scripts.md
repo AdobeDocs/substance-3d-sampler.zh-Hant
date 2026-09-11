@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Sampler 中管理已安裝的外掛和腳本，以安裝、修改及移除自訂擴充功能。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
 breadcrumb-title: ''
 description: 取得 Substance 3D Sampler 濾鏡問題的故障排除指南，以解決缺少的濾鏡及濾鏡相關問題。
 helpx_creative_field: ""

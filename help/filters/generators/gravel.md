@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Sampler 中的礫石產生器，為材料製作逼真的碎石與石材骨料紋理。
 helpx_creative_field: ""

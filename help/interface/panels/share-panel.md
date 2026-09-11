@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/share-panel.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/panels/share-panel.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Sampler 的匯出面板，將材質匯出成檔案或直接傳送到其他應用程式。
 helpx_creative_field: ""

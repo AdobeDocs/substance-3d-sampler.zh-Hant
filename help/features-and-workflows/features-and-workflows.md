@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/features-and-workflows.html"
 breadcrumb-title: ''
 description: 探索 Substance 3D Sampler 的功能與工作流程，從現有資產製作詳細材質並編輯環境燈。
 helpx_creative_field: ""

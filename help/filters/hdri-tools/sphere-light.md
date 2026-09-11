@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Sampler 中使用 Sphere Light 工具，為 HDRI 環境加入球形光源，以產生點光效果。
 helpx_creative_field: ""
