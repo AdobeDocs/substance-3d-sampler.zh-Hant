@@ -83,29 +83,29 @@ Sampler 現在讓你只需一鍵啟動 HP Z Captis 的擷取，感興趣區域�
 
 **補充：**
 
-* &amp;lbrack;Assets&amp;rbrack;請檢查 sbsar 版本並提醒使用者引擎太舊無法讀取
-* &amp;lbrack;Captis&amp;rbrack; 在偏好設定中新增儲存 captis 光度測量的選項
+* &lbrack;Assets&rbrack;請檢查 sbsar 版本並提醒使用者引擎太舊無法讀取
+* &lbrack;Captis&rbrack; 在偏好設定中新增儲存 captis 光度測量的選項
 
 **修正：**
 
-* &amp;lbrack;2D View&amp;rbrack;若關閉實體尺寸，請勿「以物理比例顯示」
-* &amp;lbrack;Analytics&amp;rbrack;缺少分析事件
-* &amp;lbrack;Analytics&amp;rbrack;防止 crashpad 在 vk devicelost 上回報當機
-* &amp;lbrack;Application&amp;rbrack;退出時不要摧毀 vkdevices，以避免 NVIDIA 驅動程式當機
-* &amp;lbrack;Application&amp;rbrack; 修正連結集合監視者退出 + 通道管理器
-* &amp;lbrack;Application&amp;rbrack; 防止出口當機
-* &amp;lbrack;Content&amp;rbrack;「金屬表面處理」濾網不會影響金屬性
-* &amp;lbrack;Content&amp;rbrack; 在動態過濾器中缺少實體大小時，會新增實體大小
-* &amp;lbrack;Filters&amp;rbrack; 從隱藏資產列表中移除內容感知填充
-* &amp;lbrack;Layers&amp;rbrack;點擊「重置所有設定」不會重置「apply to」下拉選單
-* &amp;lbrack;Layers&amp;rbrack; 修正位置小工具的最小與最大調整
-* &amp;lbrack;Layers&amp;rbrack; 正確更新過濾器
-* &amp;lbrack;Physical Size&amp;rbrack;確保物理尺度在各處都能正常運作 + 讓 Physicalsize 在動態過濾器下變得合理
-* &amp;lbrack;Project&amp;rbrack;建立新資產時，確保資產解析度為預設（2k x 2k）
-* &amp;lbrack;Project&amp;rbrack;重新開啟現有專案，過去用來開啟舊版本
-* &amp;lbrack;Project&amp;rbrack;Sampler 不再提供還原損壞專案的備份
-* &amp;lbrack;Rendering&amp;rbrack; 最高解析度為 2k 的渲染材質縮圖
-* &amp;lbrack;UI&amp;rbrack;防禦性程式碼，防止使用者速度快於 UI 時當機
+* &lbrack;2D View&rbrack;若關閉實體尺寸，請勿「以物理比例顯示」
+* &lbrack;Analytics&rbrack;缺少分析事件
+* &lbrack;Analytics&rbrack;防止 crashpad 在 vk devicelost 上回報當機
+* &lbrack;Application&rbrack;退出時不要摧毀 vkdevices，以避免 NVIDIA 驅動程式當機
+* &lbrack;Application&rbrack; 修正連結集合監視者退出 + 通道管理器
+* &lbrack;Application&rbrack; 防止出口當機
+* &lbrack;Content&rbrack;「金屬表面處理」濾網不會影響金屬性
+* &lbrack;Content&rbrack; 在動態過濾器中缺少實體大小時，會新增實體大小
+* &lbrack;Filters&rbrack; 從隱藏資產列表中移除內容感知填充
+* &lbrack;Layers&rbrack;點擊「重置所有設定」不會重置「apply to」下拉選單
+* &lbrack;Layers&rbrack; 修正位置小工具的最小與最大調整
+* &lbrack;Layers&rbrack; 正確更新過濾器
+* &lbrack;Physical Size&rbrack;確保物理尺度在各處都能正常運作 + 讓 Physicalsize 在動態過濾器下變得合理
+* &lbrack;Project&rbrack;建立新資產時，確保資產解析度為預設（2k x 2k）
+* &lbrack;Project&rbrack;重新開啟現有專案，過去用來開啟舊版本
+* &lbrack;Project&rbrack;Sampler 不再提供還原損壞專案的備份
+* &lbrack;Rendering&rbrack; 最高解析度為 2k 的渲染材質縮圖
+* &lbrack;UI&rbrack;防禦性程式碼，防止使用者速度快於 UI 時當機
 
 ### **6.0.1**
 
