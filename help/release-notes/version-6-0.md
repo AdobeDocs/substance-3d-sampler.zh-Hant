@@ -4,13 +4,11 @@ description: 請參閱 Substance 3D Sampler 6.0 版本的發布說明，了解�
 title: 版本 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '1627'
+source-wordcount: '1651'
 ht-degree: 0%
-
 ---
-
 
 # 版本 6.0
 
@@ -59,6 +57,17 @@ Sampler 現在讓你只需一鍵啟動 HP Z Captis 的擷取，感興趣區域�
 ![替代文字](../../help/assets/Captis_capture_optimization.JPG)
 
 ## V6.0 發行說明
+
+### **6.0.4**
+
+*（發行日期：2026年9月24日）*
+
+**變更**
+[引擎] 更新物質引擎至 9.6.1
+
+**固定**
+[將影像加入浮雕遮罩時，圖層] 崩潰
+[安全] 通用修正
 
 ### **6.0.3**
 

@@ -6,19 +6,28 @@ helpx_description: Sampler > Release Notes > All Changes
 title: 所有變動
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '24940'
+source-wordcount: '24964'
 ht-degree: 0%
-
 ---
-
 
 # 所有變動
 
 本頁彙整了 Substance 3D Sampler 所有的變更，從新功能到錯誤修正。
 
 ## 版本 6
+
+### **6.0.4**
+
+*（發行日期：2026年9月24日）*
+
+**變更**
+[引擎] 更新物質引擎至 9.6.1
+
+**固定**
+[將影像加入浮雕遮罩時，圖層] 崩潰
+[安全] 通用修正
 
 ### **6.0.3**
 
