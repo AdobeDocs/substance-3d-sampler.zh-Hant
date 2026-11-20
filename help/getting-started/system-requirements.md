@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: 請檢視 Substance 3D Sampler 的系統需求，確保您的硬體與軟體符合相容性標準。
 helpx_creative_field: ''
@@ -106,7 +106,7 @@ ht-degree: 0%
 
 以下是應用程式無問題執行所需的最低 GPU 驅動程式版本清單。 隨著新版本釋出，此清單可能會有所變動。
 
-要下載新驅動程式，請參考： [GPU 的驅動程式](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)已過時。
+要下載新驅動程式，請參考： [GPU 的驅動程式](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)已過時。
 
 | 作業系統 | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/getting-started/project-management.html"
 description: 了解如何利用集合管理 Substance 3D Sampler 中的專案，以組織資產與材質，提升工作流程效率。
 title: 管理您的專案
 source-git-commit: 59761aab02bff266047813f1714e3f53ddcb805c

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-sampler/interface/sidebars.html"
 description: 了解 Substance 3D Sampler 介面中的左右側邊欄，以導航工具、面板及應用程式功能。
 title: 側欄
 hold: true
